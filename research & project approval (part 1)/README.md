@@ -36,7 +36,7 @@ This first part is focused on creating a Project Proposal and requires that a go
 
 <br>
 
-## 
+## Examples of the past
 
 
 <br>
