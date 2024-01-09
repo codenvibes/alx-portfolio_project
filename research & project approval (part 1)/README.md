@@ -38,7 +38,7 @@ This first part is focused on creating a Project Proposal and requires that a go
 
 ## Examples of the past
 Explore some student projects from previous cohorts!
-- Puppr ([GitHub]()) – by [Laura Roudge (Cohort 8)](), [Drew Maring (Cohort 8)](), and [Marc Cavigli (Cohort 8)]()
+- Puppr ([GitHub](https://github.com/lroudge/puppr)) – by [Laura Roudge (Cohort 8)](https://github.com/lroudge), [Drew Maring (Cohort 8)](https://github.com/dmaring), and [Marc Cavigli (Cohort 8)](https://github.com/MCavigli)
 - OCR for Whiteboarding([GitHub]()) – by [John Cooke (Cohort 8)]()
 - Lyrical Learning ([GitHub]()) – by [David Kwan (Cohort 8)]()
 - Eggify ([GitHub]()) – by [Athena Deng (Cohort 7)]() & [Samie Azad (Cohort 7)]()
