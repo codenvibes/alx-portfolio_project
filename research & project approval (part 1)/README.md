@@ -5,7 +5,7 @@
 
 ## Concepts
 <details>
-<summary><b><a href=" ">Maze project</a></b></summary><br>
+<summary><b><a href="https://intranet.alxswe.com/concepts/133">Maze project</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" ">Portfolio Project Overview</a></b></summary><br>
 
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
