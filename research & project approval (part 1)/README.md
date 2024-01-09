@@ -38,12 +38,12 @@ This first part is focused on creating a Project Proposal and requires that a go
 
 ## Examples of the past
 Explore some student projects from previous cohorts!
-- Puppr (GitHub) – by Laura Roudge (Cohort 8), Drew Maring (Cohort 8), and Marc Cavigli (Cohort 8)
-- OCR for Whiteboarding(GitHub) – by John Cooke (Cohort 8)
-- Lyrical Learning (GitHub) – by David Kwan (Cohort 8)
-- Eggify (GitHub) – by Athena Deng (Cohort 7) & Samie Azad (Cohort 7)
-- IdeaDog (GitHub) – by Brennan D Baraban (Cohort 7)
-- Job Odyssey (GitHub) – by Susan Su (Cohort 7) & Christopher Choe (Cohort 7)
+- Puppr ([GitHub]()) – by [Laura Roudge (Cohort 8)](), [Drew Maring (Cohort 8)](), and [Marc Cavigli (Cohort 8)]()
+- OCR for Whiteboarding([GitHub]()) – by [John Cooke (Cohort 8)]()
+- Lyrical Learning ([GitHub]()) – by [David Kwan (Cohort 8)]()
+- Eggify ([GitHub]()) – by [Athena Deng (Cohort 7)]() & [Samie Azad (Cohort 7)]()
+- IdeaDog ([GitHub]()) – by [Brennan D Baraban (Cohort 7)]()
+- Job Odyssey ([GitHub]()) – by [Susan Su (Cohort 7)]() & [Christopher Choe (Cohort 7)]()
 
 
 <br>
