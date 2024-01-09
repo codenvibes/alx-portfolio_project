@@ -3,27 +3,10 @@
 <br>
 
 
-<details>
-<summary><b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/research%20%26%20project%20approval%20(part%201)">Research & Project approval (Part 1)</a></b></summary><br>
+<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/research%20%26%20project%20approval%20(part%201)">Research & Project approval (Part 1)</a></b></
 
+<b><a href=" "> </a></b>
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+<b><a href=" "> </a></b>
 
 
