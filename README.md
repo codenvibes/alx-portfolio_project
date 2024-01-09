@@ -1,2 +1,29 @@
-# alx-portfolio_project
-This repository documents the creation process of the ALX portfolio project and its associated tasks.
+<h1 align="center"><b>ALX PORTFOLIO PROJECT</b></h1>
+
+<br>
+
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
+<details>
+<summary><b><a href=" "> </a></b></summary><br>
+
+
+<br><p align="center">※※※※※※※※※※※※</p><br>
+</details>
+
+
