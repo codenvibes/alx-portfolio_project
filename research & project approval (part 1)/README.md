@@ -52,8 +52,12 @@ Explore some student projects from previous cohorts!
 ### Role
 Within the team you are on, we encourage you to take on the challenges that will be relevant for you to speak about in your (eventual) job search. For example, if your project is an ride-sharing clone, and you want to be a front end engineer, then it’s important to take on challenges with accessibility, interactive elements and user-interface. Likewise, if you are interested in backend engineering, it will be important to architect the API endpoints, data modeling and performance.
 
+<br>
+
 ### Scope
 There is always a risk that your project is too ambitious, or not ambitious enough. Each has its disadvantage. For this project, consider that it is much better to end up with something a bit smaller in scope that has undergone a couple (or at least one) iteration of deployment, testing and bug fixes. Documentation is also a big bonus!
+
+<br>
 
 ### Novelty
 Each person and team is unique. We encourage you to bring a sense of individuality to your project, so that you can use it as a tool to speak about other aspects of yourself or your team. As an example, if a team wants to create a buy/sell marketplace app and they are both passionate about bicycling, they may want to focus their marketplace on bicycles exclusively so specific attributes can be defined to track the items.
