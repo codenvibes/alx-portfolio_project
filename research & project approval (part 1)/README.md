@@ -152,7 +152,7 @@ In a section named “Technologies”:
 <details>
 <summary>
 
-### 4. 
+### 4. Challenge statement
 `mandatory`
 
 File: []()
