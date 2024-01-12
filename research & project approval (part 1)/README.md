@@ -141,10 +141,12 @@ In a section named “Team”, answer:
 ### 3. Technologies
 `mandatory`
 
-File: []()
 </summary>
 
+In a section named “Technologies”:
 
+- List the libraries, languages, platforms, frameworks, hardware, books, resources that will be necessary to complete your project.
+- For 2 of these technology choices, describe another option and what were the trade-offs between the chosen technology and the alternate. Explain what led to the final decision to use a particular technology.
 </details>
 
 <details>
