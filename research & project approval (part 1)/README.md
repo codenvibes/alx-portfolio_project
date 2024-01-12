@@ -138,7 +138,7 @@ In a section named “Team”, answer:
 <details>
 <summary>
 
-### 3. 
+### 3. Technologies
 `mandatory`
 
 File: []()
