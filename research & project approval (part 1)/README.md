@@ -171,7 +171,6 @@ In a section named “Challenge”:
 ### 5. Risks
 `mandatory`
 
-File: []()
 </summary>
 
 
