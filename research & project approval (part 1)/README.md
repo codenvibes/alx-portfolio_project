@@ -168,7 +168,7 @@ In a section named “Challenge”:
 <details>
 <summary>
 
-### 5. 
+### 5. Risks
 `mandatory`
 
 File: []()
