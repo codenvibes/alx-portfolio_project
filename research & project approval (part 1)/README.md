@@ -189,10 +189,10 @@ In a section named “Risks”:
 
 In a section called “Infrastructure”:
 
-Describe your process for branching and merging in your team’s repository (e.g. GitHub flow, Picking the right branch-merge strategy)
-Describe your strategy for deployment
-Describe how you will populate your app with data
-Describe what tools, automation or process you will use for testing
+- Describe your process for branching and merging in your team’s repository (e.g. GitHub flow, Picking the right branch-merge strategy)
+- Describe your strategy for deployment
+- Describe how you will populate your app with data
+- Describe what tools, automation or process you will use for testing
 </details>
 
 <details>
