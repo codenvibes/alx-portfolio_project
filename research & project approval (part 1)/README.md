@@ -110,7 +110,7 @@ Share a link here to a Google Document where each of the following tasks are add
 <details>
 <summary>
 
-### 1. 
+### 1. Project name and tag line
 `mandatory`
 
 File: []()
