@@ -155,7 +155,6 @@ In a section named “Technologies”:
 ### 4. Challenge statement
 `mandatory`
 
-File: []()
 </summary>
 
 
