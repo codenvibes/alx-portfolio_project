@@ -198,7 +198,7 @@ In a section called “Infrastructure”:
 <details>
 <summary>
 
-### 7. 
+### 7. Existing Solutions
 `mandatory`
 
 File: []()
