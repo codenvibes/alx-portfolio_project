@@ -113,10 +113,11 @@ Share a link here to a Google Document where each of the following tasks are add
 ### 1. Project name and tag line
 `mandatory`
 
-File: []()
 </summary>
 
+Rename the document to be the Project’s name.
 
+At the top of the document restate the project name as a header. Add a tagline below which is exactly one sentence (or phrase) that best summarizes your project.
 </details>
 
 <details>
