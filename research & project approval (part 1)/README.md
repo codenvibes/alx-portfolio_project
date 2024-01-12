@@ -58,7 +58,7 @@ There is always a risk that your project is too ambitious, or not ambitious enou
 ### Novelty
 Each person and team is unique. We encourage you to bring a sense of individuality to your project, so that you can use it as a tool to speak about other aspects of yourself or your team. As an example, if a team wants to create a buy/sell marketplace app and they are both passionate about bicycling, they may want to focus their marketplace on bicycles exclusively so specific attributes can be defined to track the items.
 
-Note: A professional project theme is a requirement. We recommend avoiding themes focused on religion, political parties and views, sexuality, sexual orientation, or illegal substances. If there is a specific reason you are passionate about a topic and would like to pursue it, please meet with a staff member to discuss. As an example, creating a platform to have open political discourse with a moderation feature would be acceptable. A site to promote all the representatives and voting history of a single political party would not be acceptable.
+**Note:** A professional project theme is a requirement. We recommend avoiding themes focused on religion, political parties and views, sexuality, sexual orientation, or illegal substances. If there is a specific reason you are passionate about a topic and would like to pursue it, please meet with a staff member to discuss. As an example, creating a platform to have open political discourse with a moderation feature would be acceptable. A site to promote all the representatives and voting history of a single political party would not be acceptable.
 
 <br>
 
