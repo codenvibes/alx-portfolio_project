@@ -173,7 +173,10 @@ In a section named “Challenge”:
 
 </summary>
 
+In a section named “Risks”:
 
+- Describe the technical risks, the potential impact, and what safeguards or alternatives you have in mind
+- Describe non-technical risks, the potential impact, and what strategies are in place to prevent these negative outcomes
 </details>
 
 <details>
