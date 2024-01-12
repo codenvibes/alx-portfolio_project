@@ -182,7 +182,7 @@ In a section named “Risks”:
 <details>
 <summary>
 
-### 6. 
+### 6. Infrastructure
 `mandatory`
 
 File: []()
