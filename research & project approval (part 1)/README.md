@@ -67,7 +67,18 @@ Each person and team is unique. We encourage you to bring a sense of individuali
 <br>
 
 ## No idea? we have some for you…
-
+If you don’t know what to build, we have some ideas for you:
+Create a web service that uses API (like a GitHub stats of an account, etc.)
+Import a rich data set, sanitize it, and create a website to visualize the data with interactive zoom and sliders
+Create a music recommender based on a set of ‘liked’ songs
+Write a game that can be played against another person or an AI
+Ship an Android app
+Create an IoT system
+Write an image compression algorithm
+Write a compiler
+Write your own Docker-like container service
+Create a “One click” to deploy a cluster of blockchain mining workers with a web page to report on its statistics
+Create a “One click” to deploy a cluster of servers hosting docker, with a web page where you can start containers on-demand
 
 <br>
 
