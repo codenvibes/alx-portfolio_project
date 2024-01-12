@@ -88,7 +88,9 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 
 <br>
 
-## 
+## More Info
+### Manual QA Review
+
 
 
 <br>
