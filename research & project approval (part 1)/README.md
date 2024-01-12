@@ -123,7 +123,7 @@ At the top of the document restate the project name as a header. Add a tagline b
 <details>
 <summary>
 
-### 2. 
+### 2. Team Members
 `mandatory`
 
 File: []()
