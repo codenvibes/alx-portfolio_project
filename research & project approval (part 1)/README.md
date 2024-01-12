@@ -25,6 +25,7 @@
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
+<br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%201)/images/be601df25eea91eaaf0d.gif">
 
 <br>
 
