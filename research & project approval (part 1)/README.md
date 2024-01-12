@@ -68,7 +68,7 @@ Each person and team is unique. We encourage you to bring a sense of individuali
 
 ## No idea? we have some for you…
 If you don’t know what to build, we have some ideas for you:
-- Create a web service that uses API (like a GitHub stats of an account, etc.)
+- Create a web service that uses [API](https://github.com/public-apis/public-apis) (like a GitHub stats of an account, etc.)
 - Import a rich data set, sanitize it, and create a website to visualize the data with interactive zoom and sliders
 - Create a music recommender based on a set of ‘liked’ songs
 - Write a game that can be played against another person or an AI
