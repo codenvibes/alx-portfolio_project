@@ -83,7 +83,7 @@ If you don’t know what to build, we have some ideas for you:
 <br>
 
 ## Default Project
-
+If you do not have an idea, and do not submit a proposal or do not gain approval for your proposed projects, you’ll be expected to complete the 2D Game: The Maze - concept page available on top of this project.
 
 
 <br>
