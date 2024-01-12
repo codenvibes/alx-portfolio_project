@@ -90,7 +90,7 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 
 ## More Info
 ### Manual QA Review
-
+**Review and approval for your portfolio project can be done by a peer.**
 
 
 <br>
