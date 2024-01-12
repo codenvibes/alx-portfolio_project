@@ -99,13 +99,12 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 <details>
 <summary>
 
-### 0. 
+### 0. Share your project proposal!
 `mandatory`
 
-File: []()
 </summary>
 
-
+Share a link here to a Google Document where each of the following tasks are addressed.
 </details>
 
 <details>
