@@ -205,8 +205,8 @@ In a section called “Infrastructure”:
 
 In a section called “Existing Solutions”:
 
-List any similar products or solutions that currently exist.
-For each item in the list, explain similarities and differences
+- List any similar products or solutions that currently exist.
+- For each item in the list, explain similarities and differences
 If you intend to reimplement a proven solution, then describe the various proven solutions and why you chose to reimplement based on a particular specification.
 
 As an example, lets say you will develop an image compression algorithm, and decide to go with Transform coding. Utilize this section to describe the different classes of image compression, and the various types of compression algorithms and the unique aspects of Transform coding.
