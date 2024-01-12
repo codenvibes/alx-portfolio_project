@@ -41,7 +41,7 @@ Explore some student projects from previous cohorts!
 - Puppr ([GitHub](https://github.com/lroudge/puppr)) – by [Laura Roudge (Cohort 8)](https://github.com/lroudge), [Drew Maring (Cohort 8)](https://github.com/dmaring), and [Marc Cavigli (Cohort 8)](https://github.com/MCavigli)
 - OCR for Whiteboarding([GitHub](https://github.com/JohnCook17/OCR_for_whiteboarding)) – by [John Cooke (Cohort 8)](https://github.com/JohnCook17)
 - Lyrical Learning ([GitHub](https://github.com/dwkwan/Lyrics_For_Learning)) – by [David Kwan (Cohort 8)](https://github.com/dwkwan/)
-- Eggify ([GitHub]()) – by [Athena Deng (Cohort 7)]() & [Samie Azad (Cohort 7)]()
+- Eggify ([GitHub](https://github.com/ad-egg/eggify)) – by [Athena Deng (Cohort 7)](https://ad-egg.github.io/) & [Samie Azad (Cohort 7)]()
 - IdeaDog ([GitHub]()) – by [Brennan D Baraban (Cohort 7)]()
 - Job Odyssey ([GitHub]()) – by [Susan Su (Cohort 7)]() & [Christopher Choe (Cohort 7)]()
 
