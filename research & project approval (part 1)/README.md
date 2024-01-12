@@ -43,7 +43,7 @@ Explore some student projects from previous cohorts!
 - Lyrical Learning ([GitHub](https://github.com/dwkwan/Lyrics_For_Learning)) – by [David Kwan (Cohort 8)](https://github.com/dwkwan/)
 - Eggify ([GitHub](https://github.com/ad-egg/eggify)) – by [Athena Deng (Cohort 7)](https://ad-egg.github.io/) & [Samie Azad (Cohort 7)](https://sazad44.github.io/)
 - IdeaDog ([GitHub](https://github.com/bdbaraban/ideadog)) – by [Brennan D Baraban (Cohort 7)](https://bdov.dev/)
-- Job Odyssey ([GitHub]()) – by [Susan Su (Cohort 7)]() & [Christopher Choe (Cohort 7)]()
+- Job Odyssey ([GitHub](https://github.com/christopherchoe/jobodyssey_hbtn)) – by [Susan Su (Cohort 7)](https://intranet.alxswe.com/rltoken/hYfutlm7ZvxrEcLtlcrSGQ) & [Christopher Choe (Cohort 7)](https://christopherchoe.github.io/)
 
 
 <br>
