@@ -1,4 +1,4 @@
-<h1 align="center"><b>. RESEARCH & PROJECT APPROVAL (PART 2)</b></h1>
+<h1 align="center"><b>RESEARCH & PROJECT APPROVAL (PART 2)</b></h1>
 <div align="center"><code></code> <code></code> <code></code></div>
 
 <br>
