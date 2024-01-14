@@ -68,9 +68,12 @@ It is fine to find ways to speed up development by taking shortcuts, but it’s 
 If you do not have an idea, and do not submit a proposal or do not gain approval for your proposed projects, you’ll be expected to complete the 2D Game: The Maze - concept page available on top of this project.
 
 
-<!-- <br>
+<br>
 
-## More Info -->
+## More Info
+### Manual QA Review
+Manual QA Reviews will be done by a peer. If no peers have been reviewed, you should request a review from a staff member.
+
 
 <br>
 
