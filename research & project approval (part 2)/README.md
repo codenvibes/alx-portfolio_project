@@ -53,7 +53,15 @@ Now that the team and the challenge are well defined, it is time to create a spe
 <br>
 
 ## Some things to think about
-<!-- Add your requirements here -->
+User Experience
+Remember that one of the most important users to consider will be the recruiter and hiring manager that will be evaluating your work. It may be helpful to think through a user experience that can be accessed without creating an account or giving personal details.
+
+Scope
+For this project, consider that it is better to end up with something a bit smaller in scope that has undergone a couple (or at least one) iteration of deployment, testing and bug fixes. Documentation is also a big bonus!
+
+Shortcuts
+It is fine to find ways to speed up development by taking shortcuts, but it’s important to state these openly, and have a plan in place to amend these if there is time. An example might be to first read and write from files without using a database (as you did with Airbnb at first), or hard-coding some values. This might be a good strategy if the real challenge of your software lies elsewhere, and you want to first create an end-to-end proof of concept to demonstrate feasibility.
+
 
 <!-- <br>
 
