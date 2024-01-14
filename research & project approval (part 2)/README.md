@@ -136,7 +136,7 @@ In a section called “APIs and Methods”:
     /api/job_search
     POST: Returns job's matching the parameters through GitHub Jobs API
     ```
-List and describe any API endpoints or function/methods that you will be creating to allow any other clients to use:
+- List and describe any API endpoints or function/methods that you will be creating to allow any other clients to use:
 
 Example: 
 class arrow.arrow.Arrow(year, month, day, hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
