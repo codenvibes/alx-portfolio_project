@@ -120,7 +120,7 @@ Here are some resources to learn more:
 <details>
 <summary>
 
-### 3. 
+### 3. APIs
 `mandatory`
 
 File: []()
