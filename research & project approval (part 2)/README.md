@@ -155,13 +155,14 @@ In a section called “APIs and Methods”:
     (source https://arrow.readthedocs.io/en/latest/#api-guide)
     ```
 - List and describe any 3rd party APIs that you will be using
-
+```
 e.g. https://developer.twitter.com/en/docs/tweets/post-and-engage/overview
 POST statuses/update
 POST statuses/destroy/:id
 GET statuses/show/:id
 GET statuses/oembed
 GET statuses/lookup
+```
 If there are no APIs used or provided, skip this section.
 </details>
 
