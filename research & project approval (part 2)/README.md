@@ -206,6 +206,6 @@ In the “User Stories” section:
 
 </summary>
 
-
+<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/f7f084b4bf401c4a94fd.png">
 </details>
 
