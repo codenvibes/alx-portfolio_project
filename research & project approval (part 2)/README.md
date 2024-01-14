@@ -190,10 +190,12 @@ Example:
 ### 5. User Stories
 `mandatory`
 
-File: []()
 </summary>
 
+First, research what user stories are, and how to write them. Also note some pitfalls of creating user stories that are too general.
 
+In the “User Stories” section:
+- Define 3-5 detailed user stories that will be satisfied when your MVP is complete.
 </details>
 
 <details>
