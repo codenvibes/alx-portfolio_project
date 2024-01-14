@@ -106,7 +106,6 @@ Rename the document to be the Project’s name and append “ MVP specification�
 ### 2. Architecture
 `mandatory`
 
-File: []()
 </summary>
 
 
