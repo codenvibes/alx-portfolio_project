@@ -187,7 +187,7 @@ Example:
 <details>
 <summary>
 
-### 5. 
+### 5. User Stories
 `mandatory`
 
 File: []()
