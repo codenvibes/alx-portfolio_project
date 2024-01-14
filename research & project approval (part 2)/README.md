@@ -208,7 +208,7 @@ In the “User Stories” section:
 
 <img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/f7f084b4bf401c4a94fd.png">
 
-If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](), to draft your user-facing visual interfaces.
+If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](https://balsamiq.com/), to draft your user-facing visual interfaces.
 
 In a section called “Mockups”:
 - Include a mockup of each view that will need to be created for your MVP
