@@ -37,15 +37,16 @@
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/7c257c6a8cd537400e72.png"></div>
 
-<br>
-
-## What’s the Minimum Viable Product (MVP)?
-
 
 <!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
 <hr> -->
+
+<br>
+
+## What’s the Minimum Viable Product (MVP)?
+> ### “A minimum viable product has just enough core features to effectively deploy the product, and no more.” – Wikipedia
 
 <br>
 
