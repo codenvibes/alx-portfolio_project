@@ -62,6 +62,11 @@ For this project, consider that it is better to end up with something a bit smal
 ### Shortcuts
 It is fine to find ways to speed up development by taking shortcuts, but it’s important to state these openly, and have a plan in place to amend these if there is time. An example might be to first read and write from files without using a database (as you did with Airbnb at first), or hard-coding some values. This might be a good strategy if the real challenge of your software lies elsewhere, and you want to first create an end-to-end proof of concept to demonstrate feasibility.
 
+<br>
+
+## Default Project
+If you do not have an idea, and do not submit a proposal or do not gain approval for your proposed projects, you’ll be expected to complete the 2D Game: The Maze - concept page available on top of this project.
+
 
 <!-- <br>
 
