@@ -211,7 +211,6 @@ In the “User Stories” section:
 If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](), to draft your user-facing visual interfaces.
 
 In a section called “Mockups”:
-
-Include a mockup of each view that will need to be created for your MVP
+- Include a mockup of each view that will need to be created for your MVP
 </details>
 
