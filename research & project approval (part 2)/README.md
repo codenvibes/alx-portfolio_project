@@ -103,7 +103,7 @@ Rename the document to be the Project’s name and append “ MVP specification�
 <details>
 <summary>
 
-### 2. 
+### 2. Architecture
 `mandatory`
 
 File: []()
