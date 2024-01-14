@@ -201,7 +201,7 @@ In the “User Stories” section:
 <details>
 <summary>
 
-### 6. 
+### 6. Mockups
 `mandatory`
 
 File: []()
