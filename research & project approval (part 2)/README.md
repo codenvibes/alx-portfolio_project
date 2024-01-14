@@ -114,7 +114,7 @@ In a section named “Architecture”:
 Here are some resources to learn more:
 - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [List of tools to create architecture diagrams](https://geekflare.com/best-software-architecture-diagram-tools/)
-- [Web Application Architecture]()
+- [Web Application Architecture](https://existek.com/blog/web-application-architecture/)
 </details>
 
 <details>
