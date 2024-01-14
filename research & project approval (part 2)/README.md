@@ -37,9 +37,9 @@
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/7c257c6a8cd537400e72.png"></div>
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## What’s the Minimum Viable Product (MVP)?
 
 
 <!-- <br>
@@ -49,7 +49,7 @@
 
 <br>
 
-## Requirements
+## Some things to think about
 <!-- Add your requirements here -->
 
 <!-- <br>
