@@ -123,7 +123,6 @@ Here are some resources to learn more:
 ### 3. APIs
 `mandatory`
 
-File: []()
 </summary>
 
 
