@@ -84,10 +84,9 @@ Manual QA Reviews will be done by a peer. If no peers have been reviewed, you sh
 ### 0. Share your MVP specification!
 `mandatory`
 
-File: []()
 </summary>
 
-
+Share a link here to a NEW Google Document where each of the following tasks are addressed.
 </details>
 
 <details>
