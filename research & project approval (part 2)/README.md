@@ -95,7 +95,6 @@ Share a link here to a **NEW** Google Document where each of the following tasks
 ### 1. Rename the document
 `mandatory`
 
-File: []()
 </summary>
 
 
