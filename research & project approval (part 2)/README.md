@@ -110,12 +110,12 @@ Rename the document to be the Project’s name and append “ MVP specification�
 
 In a section named “Architecture”:
 
-Include an illustration or diagram of the Portfolio Project’s MVP. This should include an end-to-end map for the data flowing through your system. Each part of the diagram should be clearly labeled.
+- Include an illustration or diagram of the Portfolio Project’s MVP. This should include an end-to-end map for the data flowing through your system. Each part of the diagram should be clearly labeled.
 Here are some resources to learn more:
 
-Web Architecture 101
-List of tools to create architecture diagrams
-Web Application Architecture
+- Web Architecture 101
+- List of tools to create architecture diagrams
+- Web Application Architecture
 </details>
 
 <details>
