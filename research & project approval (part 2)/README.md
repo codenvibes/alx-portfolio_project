@@ -176,7 +176,10 @@ If there are no APIs used or provided, skip this section.
 
 In a section named “Data Model”:
 - Create a data model diagram to clarify how data will be stored
+
 Tools: [SqlDBM](https://sqldbm.com/Home/)
+
+Example:<img src="">
 </details>
 
 <details>
