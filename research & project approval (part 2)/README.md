@@ -174,7 +174,10 @@ If there are no APIs used or provided, skip this section.
 
 </summary>
 
+In a section named “Data Model”:
 
+Create a data model diagram to clarify how data will be stored
+Tools: SqlDBM
 </details>
 
 <details>
