@@ -97,7 +97,7 @@ Share a link here to a **NEW** Google Document where each of the following tasks
 
 </summary>
 
-
+Rename the document to be the Project’s name and append “ MVP specification”
 </details>
 
 <details>
