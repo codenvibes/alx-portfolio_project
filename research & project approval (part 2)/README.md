@@ -127,7 +127,7 @@ Here are some resources to learn more:
 
 In a section called “APIs and Methods”:
 - List and describe the API routes that you will be creating for your web client to communicate with your web server
-
+```
 Example:
 /api/rewards
 GET: Returns a randomized array of ten rewards based on rarity for a user to win based on a roll POST: Takes a user id and reward id and adds that to the user rewards table
@@ -135,6 +135,7 @@ GET: Returns a randomized array of ten rewards based on rarity for a user to win
 GET: Returns the user's information based on session id
 /api/job_search
 POST: Returns job's matching the parameters through GitHub Jobs API
+```
 List and describe any API endpoints or function/methods that you will be creating to allow any other clients to use:
 
 Example: 
