@@ -112,8 +112,8 @@ In a section named “Architecture”:
 - Include an illustration or diagram of the Portfolio Project’s MVP. This should include an end-to-end map for the data flowing through your system. Each part of the diagram should be clearly labeled.
 
 Here are some resources to learn more:
-- [Web Architecture 101]()
-- [List of tools to create architecture diagrams]()
+- [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+- [List of tools to create architecture diagrams](https://geekflare.com/best-software-architecture-diagram-tools/)
 - [Web Application Architecture]()
 </details>
 
