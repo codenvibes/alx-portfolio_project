@@ -204,7 +204,6 @@ In the “User Stories” section:
 ### 6. Mockups
 `mandatory`
 
-File: []()
 </summary>
 
 
