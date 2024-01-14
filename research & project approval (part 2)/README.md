@@ -86,13 +86,13 @@ Manual QA Reviews will be done by a peer. If no peers have been reviewed, you sh
 
 </summary>
 
-Share a link here to a NEW Google Document where each of the following tasks are addressed.
+Share a link here to a **NEW** Google Document where each of the following tasks are addressed.
 </details>
 
 <details>
 <summary>
 
-### 1. 
+### 1. Rename the document
 `mandatory`
 
 File: []()
