@@ -48,6 +48,8 @@
 ## What’s the Minimum Viable Product (MVP)?
 > ### “A minimum viable product has just enough core features to effectively deploy the product, and no more.” – Wikipedia
 
+Now that the team and the challenge are well defined, it is time to create a specification for the first version of your software. This is important because it is an opportunity to get the scope of the project right. If a project is too small in scope, it does not serve as an opportunity to expand your technical understanding, or present as impressive. When a project is too large in scope, the project will likely be incomplete by the end of the 2 weeks.
+
 <br>
 
 ## Some things to think about
