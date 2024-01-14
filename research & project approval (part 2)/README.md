@@ -154,7 +154,7 @@ In a section called “APIs and Methods”:
     tzinfo – (optional) A timezone expression. Defaults to UTC.
     (source https://arrow.readthedocs.io/en/latest/#api-guide)
     ```
-List and describe any 3rd party APIs that you will be using
+- List and describe any 3rd party APIs that you will be using
 
 e.g. https://developer.twitter.com/en/docs/tweets/post-and-engage/overview
 POST statuses/update
