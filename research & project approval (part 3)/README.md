@@ -186,6 +186,12 @@ For each task, based on priority and dependencies, assign a due date within the 
 
 </summary>
 
+Include the following tasks to the “Approved” column:
 
+Create presentation
+Create project landing page
+Write comprehensive README.md
+Make demo of the project
+Write blog post
 </details>
 
