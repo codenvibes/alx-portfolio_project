@@ -160,7 +160,7 @@ For each card, assign ownership to a team member. This should make sense given t
 
 </summary>
 
-
+Invite the technical staff to be a collaborator on the Trello board so that each proposed task can be commented upon and moved into the approved column.
 </details>
 
 <details>
