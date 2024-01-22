@@ -113,12 +113,12 @@ Share a link here to a public Trello board where each of the following tasks are
 
 Set up your Trello board with the following columns:
 
-Proposed
-Approved
-In Progress
-Dev Complete
-Tested
-Deployed
+- Proposed
+- Approved
+- In Progress
+- Dev Complete
+- Tested
+- Deployed
 Example:
 
 </details>
