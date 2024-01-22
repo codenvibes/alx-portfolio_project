@@ -86,7 +86,7 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 <br>
 
 ## More Info
-Manual QA Review
+### Manual QA Review
 It is your responsibility to request a review for your Trello board from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.
 
 
