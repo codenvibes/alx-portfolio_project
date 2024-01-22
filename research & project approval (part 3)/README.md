@@ -22,6 +22,12 @@
 <br>
 
 ## What’s a Portfolio Project?
+The Portfolio Project will be a project you will showcase on your resumé, online, and during interviews. A completed Portfolio Project will consist of:
+- A landing page describing your project
+- A comprehensive `README.md`
+- A demo of the project
+- A presentation
+- A blog post
 
 
 <br>
