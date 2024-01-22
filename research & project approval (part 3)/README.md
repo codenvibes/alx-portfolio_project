@@ -142,7 +142,7 @@ In the “proposed” column, create cards to fully represent the engineering ta
 <details>
 <summary>
 
-### 3. 
+### 3. Assign cards
 `mandatory`
 
 </summary>
