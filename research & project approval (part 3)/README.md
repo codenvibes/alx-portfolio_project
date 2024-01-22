@@ -66,7 +66,7 @@ There are other project management tools, such as [Asana](https://asana.com/ko),
 
 <br>
 
-## 
+## Some things to think about
 
 
 <br>
