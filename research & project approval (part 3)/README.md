@@ -147,7 +147,7 @@ In the “proposed” column, create cards to fully represent the engineering ta
 
 </summary>
 
-
+For each card, assign ownership to a team member. This should make sense given the roles specified in the project proposal.
 </details>
 
 <details>
