@@ -67,6 +67,14 @@ There are other project management tools, such as [Asana](https://asana.com/ko),
 <br>
 
 ## Some things to think about
+Scope of tasks
+Creating well-scoped tasks is a skill that requires practice. Also explore creating subtasks within a task.
+
+Dependencies
+Some tasks will rely on other ones to first be completed. Other tasks can be done in parallel but may require integration with other components along the way. Define your tasks with dependencies in mind.
+
+Priority
+Similar to thinking about dependencies, it will also be important to complete the highest-risk part of your software first to ensure that the central workflows of your software can be completed. It may make sense to prioritize tasks that the team is least knowledgeable about, or require the greatest resources.
 
 
 <br>
