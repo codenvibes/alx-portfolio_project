@@ -90,28 +90,6 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 **It is your responsibility to request a review for your Trello board from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.**
 
 
-<br>
-
-## Learning Objectives
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<br>
-
-## Requirements
-<!-- Add your requirements here -->
-
-<!-- <br>
-
-## More Info -->
-
-<br>
-
 ## Tasks
 <details>
 <summary>
