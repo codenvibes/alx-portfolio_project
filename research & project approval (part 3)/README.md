@@ -80,6 +80,7 @@ Similar to thinking about dependencies, it will also be important to complete th
 <br>
 
 ## Default Project
+If you do not have an idea, and do not submit a proposal or do not gain approval for your proposed projects, you’ll be expected to complete the 2D Game: **The Maze** - concept page available on top of this project.
 
 
 <br>
