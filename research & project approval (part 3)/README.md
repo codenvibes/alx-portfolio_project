@@ -13,10 +13,6 @@
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/4391d31c6a8e594e3655.png"></div>
 
-<!-- <br>
-
-## Background Context -->
-
 
 <!-- <br>
 <hr>
@@ -25,19 +21,32 @@
 
 <br>
 
-## Resources
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+## 
 
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+<br>
+
+## 
 
 
-<!-- <br>
+<br>
 
-**man or help:**
-- `` -->
+## 
+
+
+<br>
+
+## 
+
+
+<br>
+
+## 
+
+
+<br>
+
+## 
 
 <br>
 
