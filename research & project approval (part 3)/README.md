@@ -41,7 +41,7 @@ The Portfolio Project serves several different purposes:
 
 <br>
 
-## 
+## Timeline and checkpoints
 
 
 <br>
