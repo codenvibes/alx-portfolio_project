@@ -106,7 +106,7 @@ Share a link here to a public Trello board where each of the following tasks are
 <details>
 <summary>
 
-### 1. 
+### 1. Column Headers
 `mandatory`
 
 </summary>
