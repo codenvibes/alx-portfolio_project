@@ -89,6 +89,7 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 ### Manual QA Review
 **It is your responsibility to request a review for your Trello board from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.**
 
+<br>
 
 ## Tasks
 <details>
@@ -97,7 +98,6 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 ### 0. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -109,7 +109,6 @@ File: []()
 ### 1. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -121,7 +120,6 @@ File: []()
 ### 2. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -133,7 +131,6 @@ File: []()
 ### 3. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -145,7 +142,6 @@ File: []()
 ### 4. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -157,7 +153,6 @@ File: []()
 ### 5. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -169,7 +164,6 @@ File: []()
 ### 6. 
 `mandatory`
 
-File: []()
 </summary>
 
 
