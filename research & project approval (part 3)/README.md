@@ -181,7 +181,7 @@ For each task, based on priority and dependencies, assign a due date within the 
 <details>
 <summary>
 
-### 6. 
+### 6. Add a few mandatory tasks
 `mandatory`
 
 </summary>
