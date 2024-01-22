@@ -119,6 +119,7 @@ Set up your Trello board with the following columns:
 - Dev Complete
 - Tested
 - Deployed
+
 Example:
 
 </details>
