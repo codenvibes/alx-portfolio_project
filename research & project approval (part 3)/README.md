@@ -193,7 +193,7 @@ Include the following tasks to the “Approved” column:
 - Write comprehensive `README.md`
 - Make demo of the project
 - Write blog post
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/42354323a2437e1cd239.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/e9ab6911846f21f1e8ff.png"></div>
 
 </details>
 
