@@ -173,6 +173,8 @@ Invite the technical staff to be a collaborator on the Trello board so that each
 
 </summary>
 
+For each task, based on priority and dependencies, assign a due date within the 2 week development window.
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/42354323a2437e1cd239.png"></div>
 
 </details>
 
