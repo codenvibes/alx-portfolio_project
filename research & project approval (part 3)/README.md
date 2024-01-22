@@ -32,7 +32,7 @@ The Portfolio Project will be a project you will showcase on your resumé, onlin
 
 <br>
 
-## 
+## Why build a Portfolio project?
 
 
 <br>
