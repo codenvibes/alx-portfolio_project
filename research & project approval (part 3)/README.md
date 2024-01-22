@@ -100,7 +100,7 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 
 </summary>
 
-
+Share a link here to a public Trello board where each of the following tasks are addressed.
 </details>
 
 <details>
