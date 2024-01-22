@@ -59,7 +59,7 @@ Build Portfolio Project
 <br>
 
 ## What’s the Trello board?
-Trello is a free project management software that uses a kanban board to visually track the implementation of a feature set from “to-do” to “done”. Trello makes it easy to assign tasks, collaborate and collect notes in a central location.
+Trello is a free project management software that uses a [kanban board]() to visually track the implementation of a feature set from “to-do” to “done”. Trello makes it easy to assign tasks, collaborate and collect notes in a central location.
 
 There are other project management tools, such as Asana, Airtable, and Jira. Trello has been selected for ease of use and ability to visualize progress.
 
