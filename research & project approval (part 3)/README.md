@@ -168,7 +168,7 @@ Invite the technical staff to be a collaborator on the Trello board so that each
 <details>
 <summary>
 
-### 5. 
+### 5. Set Due Dates
 `mandatory`
 
 </summary>
