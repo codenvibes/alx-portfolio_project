@@ -155,7 +155,7 @@ For each card, assign ownership to a team member. This should make sense given t
 <details>
 <summary>
 
-### 4. 
+### 4. Invite collaborators
 `mandatory`
 
 </summary>
