@@ -33,6 +33,10 @@ The Portfolio Project will be a project you will showcase on your resumé, onlin
 <br>
 
 ## Why build a Portfolio project?
+The Portfolio Project serves several different purposes:
+1. Highlights a Student’s unique interests and background when networking, or interviewing with potential employers.
+2. Provides a realistic workplace scenario where engineers create a solution to fit loosely defined requirements, break this down into concrete tasks and implement on a deadline.
+3. Allows for self-directed learning to explore a new technical topic, deepen understanding of a curriculum-covered topic, or use technology to bring an idea to life.
 
 
 <br>
