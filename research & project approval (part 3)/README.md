@@ -129,12 +129,12 @@ Example:
 <details>
 <summary>
 
-### 2. 
+### 2. Create Cards
 `mandatory`
 
 </summary>
 
-
+In the “proposed” column, create cards to fully represent the engineering tasks necessary to implement to satisfy the User Stories defined for your MVP. For each card, attach detailed descriptions, mockups, diagrams or technical specifications relevant to the engineering task.
 </details>
 
 <details>
