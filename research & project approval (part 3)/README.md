@@ -47,7 +47,7 @@ Projects can be developed alone, or in teams of up to 3 students. The technologi
 Research & project approval (Part 1-3)
 - Week 1: Project proposal (staff review, approval required)
 - Week 2: MVP (Minimum Viable Product) proposal (staff review, approval required)
-- Week 3: Trello board (staff review, approval required)
+- **Week 3: [Trello]() board (staff review, approval required)**
 
 Build Portfolio Project
 - Week 4: Development
