@@ -95,21 +95,21 @@ Have fun!
 Share a link here to a new Google Document where your team provides a written status update.
 </details>
 
-<details>
+<!--<details>
 <summary>
 
-### 1. Challenges
+### 1. 
 `mandatory`
 
 </summary>
 
 
-</details>
+</details>-->
 
 <details>
 <summary>
 
-### 2. 
+### 2. Challenges
 `mandatory`
 
 </summary>
