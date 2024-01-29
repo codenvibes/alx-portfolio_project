@@ -124,6 +124,7 @@ In a section named “Collaboration”, answer:
 If you are working in a team:
 
 - Discuss the challenges and/or success your team has had with collaborating
+
 If you are not working in a team:
 
 - Discuss any help you’ve received or provide from/to peers, staff, mentors, etc.
