@@ -98,7 +98,7 @@ Share a link here to a new Google Document where your team provides a written st
 <details>
 <summary>
 
-### 1. 
+### 1. Challenges
 `mandatory`
 
 </summary>
