@@ -95,16 +95,6 @@ Have fun!
 Share a link here to a new Google Document where your team provides a written status update.
 </details>
 
-<!--<details>
-<summary>
-
-### 1. 
-`mandatory`
-
-</summary>
-
-
-</details>-->
 
 <details>
 <summary>
