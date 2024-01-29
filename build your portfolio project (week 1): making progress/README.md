@@ -47,10 +47,10 @@ This week is all about execution! You have a detailed plan and you’ve thought 
 ## PLD: Portfolio Project Checkin
 During the PLD this week, these are the objectives:
 
-Each team meets with 3 other teams, one at a time for 40 minutes.
-During the team-team meeting, each team presents for 20 minutes, then observes for 20 minutes.
-When a team is presenting, they share their proposal, problem statement, and walk through code any they’ve implemented and technical choices they have made.
-When a team is observing, they ask questions, share observations, and code review.
+- Each team meets with 3 other teams, one at a time for 40 minutes.
+- During the team-team meeting, each team presents for 20 minutes, then observes for 20 minutes.
+- When a team is presenting, they share their proposal, problem statement, and walk through code any they’ve implemented and technical choices they have made.
+- When a team is observing, they ask questions, share observations, and code review.
 
 
 <br>
