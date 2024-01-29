@@ -39,6 +39,7 @@
 <br>
 
 ## And now, we build!
+This week is all about execution! You have a detailed plan and you’ve thought through many aspects of your project. Now, get to work and try to hit the goals you’ve set for yourself or your team. The deliverable for the upcoming week will be a status report to share the challenges and progress you’ve encountered this week.
 
 
 <br>
