@@ -148,6 +148,8 @@ If you are not working in a team:
 
 </summary>
 
+In a section named “Project Updates”:
 
+- Outline any changes you are making to your portfolio project’s deliverables. Provide reasoning for each.
 </details>
 
