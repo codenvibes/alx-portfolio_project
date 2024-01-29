@@ -87,7 +87,7 @@ Have fun!
 <details>
 <summary>
 
-### 0. 
+### 0. Share your project progress!
 `mandatory`
 
 File: []()
