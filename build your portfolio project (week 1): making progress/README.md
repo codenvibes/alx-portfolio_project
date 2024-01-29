@@ -56,13 +56,13 @@ During the PLD this week, these are the objectives:
 <br>
 
 ## Some things to think about
-Front-load the biggest challenges first
+### Front-load the biggest challenges first
 This is the best time to tackle the areas you defined as the riskiest parts, and prioritizing them so that you can be confident that the project is feasible end-to-end. By taking this on first, it also allows for time to update your plan and rework your solution if necessary.
 
-Organize the collaboration
+### Organize the collaboration
 If you’re working as a team, clarify the integration points, schedule and expectations. Frequent checkins, and co-locating to work in-person can be very effective.
 
-Implement specified branch strategy; merge often
+### Implement specified branch strategy; merge often
 Merging code frequently is a great way to avoid a broken application the night before the presentation.
 
 
