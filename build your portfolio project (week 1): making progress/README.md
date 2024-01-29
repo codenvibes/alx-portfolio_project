@@ -1,4 +1,4 @@
-<h1 align="center"><b>. BUILD YOUR PORTFOLIO PROJECT (WEEK 1): MAKING PROGRESS</b></h1>
+<h1 align="center"><b>BUILD YOUR PORTFOLIO PROJECT (WEEK 1): MAKING PROGRESS</b></h1>
 <div align="center"><code></code> <code></code> <code></code> <code></code></div>
 
 <br>
