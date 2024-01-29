@@ -75,6 +75,10 @@ If you are doing our Maze project, you can find all instructions in the Maze con
 <br>
 
 ## More Info
+### Manual QA Review
+Manual QA Reviews will be completed by staff members.
+
+Have fun!
 
 
 <br>
