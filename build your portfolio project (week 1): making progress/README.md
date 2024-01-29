@@ -152,5 +152,10 @@ In a section named “Project Updates”:
 
 </summary>
 
+In a section named “Progress”, answer:
 
+On a scale of 1 to 10, how would you rate the progress you’ve made this week?
+How are you measuring your progress?
+Discuss why you have given your team (or yourself) this rating.
+Provide an assessment of whether your project will be completed on time as specified in your Project Proposal and MVP definition.
 </details>
