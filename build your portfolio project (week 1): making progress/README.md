@@ -143,3 +143,14 @@ In a section named “Project Updates”:
 - Outline any changes you are making to your portfolio project’s deliverables. Provide reasoning for each.
 </details>
 
+
+<details>
+<summary>
+
+### 1. 
+`mandatory`
+
+</summary>
+
+
+</details>
