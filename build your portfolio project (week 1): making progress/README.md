@@ -29,24 +29,37 @@
 
 <br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%201)%3A%20making%20progress/images/a9988dee7cde9c364f7b.gif">
 
-<!-- <br>
-
-## Background Context -->
-
 
 <!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
+
 <br>
 
-## Requirements
-<!-- Add your requirements here -->
+## 
 
-<!-- <br>
 
-## More Info -->
+<br>
+
+## 
+
+
+<br>
+
+## 
+
+
+<br>
+
+## 
+
+
+<br>
+
+## 
+
 
 <br>
 
