@@ -114,7 +114,11 @@ Share a link here to a new Google Document where your team provides a written st
 
 </summary>
 
+In a section named “Challenges”, answer:
 
+What challenges have you discovered about your project that were not obvious when you did your research?
+How have you had to change your plan to adapt to these unearthed challenges?
+Describe any unexpected non-technical challenges?
 </details>
 
 <details>
