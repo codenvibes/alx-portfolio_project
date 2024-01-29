@@ -74,7 +74,7 @@ If you are doing our Maze project, you can find all instructions in the Maze con
 
 <br>
 
-## 
+## More Info
 
 
 <br>
