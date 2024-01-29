@@ -68,7 +68,7 @@ Merging code frequently is a great way to avoid a broken application the night b
 
 <br>
 
-## 
+## Maze Project
 
 
 <br>
