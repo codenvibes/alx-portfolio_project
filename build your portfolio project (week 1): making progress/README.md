@@ -147,7 +147,7 @@ In a section named “Project Updates”:
 <details>
 <summary>
 
-### 1. 
+### 1. Progress
 `mandatory`
 
 </summary>
