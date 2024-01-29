@@ -124,7 +124,7 @@ In a section named “Challenges”, answer:
 <details>
 <summary>
 
-### 3. 
+### 3. Collaboration/Communication
 `mandatory`
 
 </summary>
