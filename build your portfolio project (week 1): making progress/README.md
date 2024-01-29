@@ -27,7 +27,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/a9988dee7cde9c364f7b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240129T145918Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=96409991e1b0e3463c413df00bfc6c586b785e8d6e0f4abac76deef38156627c">
+<br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%201)%3A%20making%20progress/images/a9988dee7cde9c364f7b.gif">
 
 <!-- <br>
 
