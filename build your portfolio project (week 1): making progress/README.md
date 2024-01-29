@@ -143,7 +143,7 @@ If you are not working in a team:
 <details>
 <summary>
 
-### 4. 
+### 4. Project Updates
 `mandatory`
 
 </summary>
