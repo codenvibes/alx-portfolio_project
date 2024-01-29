@@ -69,6 +69,7 @@ Merging code frequently is a great way to avoid a broken application the night b
 <br>
 
 ## Maze Project
+If you are doing our Maze project, you can find all instructions in the Maze concept page
 
 
 <br>
