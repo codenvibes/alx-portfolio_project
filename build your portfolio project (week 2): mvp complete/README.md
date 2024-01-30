@@ -1,0 +1,85 @@
+<h1 align="center"><b>. BUILD YOUR PORTFOLIO PROJECT (WEEK 2): MVP COMPLETE</b></h1>
+<div align="center"><code></code> <code></code> <code></code> <code></code></div>
+
+<!-- <br>
+
+## Background Context -->
+
+
+<!-- <br>
+<hr>
+<h3><a href=>Notes</a></h3>
+<hr> -->
+
+<br>
+
+## Requirements
+<!-- Add your requirements here -->
+
+<!-- <br>
+
+## More Info -->
+
+<br>
+
+## Tasks
+<details>
+<summary>
+
+### 0. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+
+### 1. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+
+### 2. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+
+### 3. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+
+### 4. 
+`mandatory`
+
+File: []()
+</summary>
+
+
+</details>
+
