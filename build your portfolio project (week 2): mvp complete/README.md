@@ -1,5 +1,5 @@
 <h1 align="center"><b>. BUILD YOUR PORTFOLIO PROJECT (WEEK 2): MVP COMPLETE</b></h1>
-<div align="center"><code>Group project</code> <code></code> <code></code> <code></code></div>
+<div align="center"><code>Group project</code> <code>Front-end</code> <code></code> <code></code></div>
 
 <!-- <br>
 
