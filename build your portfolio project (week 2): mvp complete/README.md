@@ -86,7 +86,7 @@ In a section named “Progress” in your status document, answer:
 <details>
 <summary>
 
-### 3. 
+### 3. Challenges
 `mandatory`
 
 </summary>
