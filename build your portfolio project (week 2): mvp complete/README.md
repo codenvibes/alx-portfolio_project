@@ -48,7 +48,7 @@ It is your responsibility to request a review for your Google Doc from a peer be
 <details>
 <summary>
 
-### 0. 
+### 0. Share your project progress!
 `mandatory`
 
 File: []()
