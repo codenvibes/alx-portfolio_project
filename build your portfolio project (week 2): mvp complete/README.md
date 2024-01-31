@@ -91,7 +91,10 @@ In a section named “Progress” in your status document, answer:
 
 </summary>
 
+In a section named “Challenges” in your status document, answer:
 
+- Explain the most difficult technical challenge you encountered in this second week. This answer must be more than 200 words.
+- Describe the most difficult non-technical challenge you encountered in this second week. This answer must be more than 200 words.
 </details>
 
 <details>
