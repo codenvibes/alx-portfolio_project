@@ -4,23 +4,29 @@
 <br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%202)%3A%20mvp%20complete/images/864a45bae8cdb7fa2de1.gif">
 
 <!-- <br>
-
-## Background Context -->
-
-
-<!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
 <br>
 
-## Requirements
-<!-- Add your requirements here -->
+## 
 
-<!-- <br>
 
-## More Info -->
+<br>
+
+## 
+
+
+<br>
+
+## 
+
+
+<br>
+
+## More Info
+
 
 <br>
 
