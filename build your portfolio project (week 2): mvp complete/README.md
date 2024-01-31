@@ -70,7 +70,7 @@ Share a link here to your MVP’s Repository
 <details>
 <summary>
 
-### 2. 
+### 2. Progress
 `mandatory`
 
 </summary>
