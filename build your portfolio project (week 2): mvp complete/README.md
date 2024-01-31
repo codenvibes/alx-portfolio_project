@@ -53,7 +53,7 @@ It is your responsibility to request a review for your Google Doc from a peer be
 
 </summary>
 
-
+Share a link here to a Google Document where your team provides a written status update. This can be the same document you submitted last week, but please make it clear that there is a new entry for this week.
 </details>
 
 <details>
