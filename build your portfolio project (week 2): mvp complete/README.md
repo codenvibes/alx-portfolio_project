@@ -51,7 +51,6 @@ It is your responsibility to request a review for your Google Doc from a peer be
 ### 0. Share your project progress!
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -63,7 +62,6 @@ File: []()
 ### 1. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -75,7 +73,6 @@ File: []()
 ### 2. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -87,7 +84,6 @@ File: []()
 ### 3. 
 `mandatory`
 
-File: []()
 </summary>
 
 
@@ -99,7 +95,6 @@ File: []()
 ### 4. 
 `mandatory`
 
-File: []()
 </summary>
 
 
