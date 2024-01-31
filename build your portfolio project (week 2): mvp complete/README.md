@@ -105,6 +105,6 @@ In a section named “Challenges” in your status document, answer:
 
 </summary>
 
-
+In a section named “Screenshots” in your status document, include at least 2 screenshots of your app.
 </details>
 
