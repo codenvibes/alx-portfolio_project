@@ -75,7 +75,12 @@ Share a link here to your MVP’s Repository
 
 </summary>
 
+In a section named “Progress” in your status document, answer:
 
+- On a scale of 1 to 10, how would you rate the progress you’ve made this week?
+- Provide an explanation of your progress assessment this week.
+- What parts of your project are completed as planned?
+- What aspects of your project are incomplete?
 </details>
 
 <details>
