@@ -64,7 +64,7 @@ Share a link here to a Google Document where your team provides a written status
 
 </summary>
 
-
+Share a link here to your MVP’s Repository
 </details>
 
 <details>
