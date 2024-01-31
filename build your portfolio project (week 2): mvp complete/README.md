@@ -100,7 +100,7 @@ In a section named “Challenges” in your status document, answer:
 <details>
 <summary>
 
-### 4. 
+### 4. Share screenshots
 `mandatory`
 
 </summary>
