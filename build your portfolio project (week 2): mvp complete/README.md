@@ -38,6 +38,8 @@ Keep going! Add more features, tests, and polish the features you’ve completed
 <br>
 
 ## More Info
+Manual QA Review
+It is your responsibility to request a review for your Google Doc from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.
 
 
 <br>
