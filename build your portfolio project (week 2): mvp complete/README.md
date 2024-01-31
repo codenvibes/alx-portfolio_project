@@ -59,7 +59,7 @@ Share a link here to a Google Document where your team provides a written status
 <details>
 <summary>
 
-### 1. 
+### 1. GitHub Link
 `mandatory`
 
 </summary>
