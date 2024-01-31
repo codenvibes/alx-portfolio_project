@@ -27,7 +27,7 @@ During the PLD this week, these are the objectives:
 
 <br>
 
-## 
+## Some things to think about
 
 
 <br>
