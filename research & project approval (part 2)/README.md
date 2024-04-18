@@ -194,6 +194,8 @@ Example:
 
 First, research what [user stories](https://en.wikipedia.org/wiki/User_story) are, and how to write them. Also note [some pitfalls](https://blog.prototypr.io/stop-it-with-as-a-user-5feb9b38d920) of creating user stories that are too general.
 
+> In software development and product management, a user story is a concise, informal description of a feature or functionality from the perspective of an end user. It typically follows a simple template:<br>"As a [type of user], I want [some goal] so that [some reason]."<br>For example:<br>"As a registered user, I want to be able to reset my password so that I can regain access to my account if I forget it."<br>User stories focus on the user's needs, goals, and motivations, rather than technical details or implementation specifics. They serve as a communication tool between stakeholders, helping to capture requirements, prioritize work, and ensure that the development team understands what needs to be built and why. Additionally, user stories are often used as the basis for defining acceptance criteria, which outline the conditions that must be met for the user story to be considered complete.
+
 In the “User Stories” section:
 - Define 3-5 detailed user stories that will be satisfied when your MVP is complete.
 </details>
