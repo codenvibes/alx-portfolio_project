@@ -87,6 +87,8 @@ Manual QA Reviews will be done by a peer. If no peers have been reviewed, you sh
 </summary>
 
 Share a link here to a **NEW** Google Document where each of the following tasks are addressed.
+
+https://docs.google.com/document/d/1bbuQWnJYG4rhXv8K-6NmpAorazRhnNzSQ5uQttPYDKg/edit?usp=sharing
 </details>
 
 <details>
