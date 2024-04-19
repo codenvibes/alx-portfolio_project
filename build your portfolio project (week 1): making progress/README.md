@@ -93,6 +93,8 @@ Have fun!
 </summary>
 
 Share a link here to a new Google Document where your team provides a written status update.
+
+https://docs.google.com/document/d/193dXn4H6Ce7dSS8msbxu7WH6shRuXKzX_FUBeHD1pqU/edit?usp=sharing
 </details>
 
 
