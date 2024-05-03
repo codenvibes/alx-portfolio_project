@@ -31,10 +31,10 @@ As you scroll down, there are three features that are briefly explained, and a g
 <br>
 
 ### Examples of Landing Pages
-Slack
-Stripe
-Ghost
-Coinbase
+- Slack
+- Stripe
+- Ghost
+- Coinbase
 
 
 <br>
