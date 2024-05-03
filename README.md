@@ -12,4 +12,6 @@
 
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%202)%3A%20mvp%20complete">Build your portfolio project (Week 2): MVP Complete</a></b>
 
+<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page">Build your portfolio project (Week 3): Project Landing Page</a></b>
+
 <b><a href=" "> </a></b>
