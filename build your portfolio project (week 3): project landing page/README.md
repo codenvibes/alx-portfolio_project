@@ -100,8 +100,8 @@ If you would instead like to use an external service, here are some free options
 
 Share two links here:
 
-Landing page URL
-Deployed project page URL, or link to a Youtube video of a demo of the app
+1. Landing page URL
+2. Deployed project page URL, or link to a Youtube video of a demo of the app
 
 </details>
 
