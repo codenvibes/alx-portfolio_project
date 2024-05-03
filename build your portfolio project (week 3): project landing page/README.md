@@ -43,7 +43,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 - [Amazon](https://www.amazon.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [Booking.com](https://www.booking.com/)
-- [Pinterest]()
+- [Pinterest](https://www.pinterest.com/)
 *note: accessed from an incognito browser*
 
 
