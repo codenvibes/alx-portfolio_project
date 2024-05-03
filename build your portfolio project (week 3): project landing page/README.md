@@ -1,7 +1,7 @@
 <h1 align="center"><b>BUILD YOUR PORTFOLIO PROJECT (WEEK 3): PROJECT LANDING PAGE</b></h1>
 <div align="center"><code>Group project</code> <code>Front-end</code> <code>Back-end</code> <code>Portfolio project</code></div>
 
-<br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/02eef3b807902eeb9cb8.gif">
+<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/02eef3b807902eeb9cb8.gif"></div>
 
 <!-- <br>
 
