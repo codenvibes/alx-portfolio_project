@@ -41,7 +41,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 
 ### Examples of non-Landing Pages
 - [Amazon](https://www.amazon.com/)
-- [Airbnb]()
+- [Airbnb](https://www.airbnb.com/)
 - [Booking.com]()
 - [Pinterest]()
 *note: accessed from an incognito browser*
