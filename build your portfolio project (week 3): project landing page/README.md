@@ -73,6 +73,13 @@ Your Portfolio Project landing page is intended to:
 <br>
 
 ### Resources
+You’re welcome to build your own. We recommend using github pages. Select “Project site” to see instructions for creating a landing page for a repo.
+
+If you would instead like to use an external service, here are some free options:
+
+Wix
+MailChimp
+QuickPages
 
 
 <!-- <br>
