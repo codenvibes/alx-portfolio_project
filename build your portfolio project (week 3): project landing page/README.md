@@ -96,7 +96,6 @@ If you would instead like to use an external service, here are some free options
 ### 0. 
 `mandatory`
 
-File: []()
 </summary>
 
 
