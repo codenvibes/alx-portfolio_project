@@ -31,7 +31,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 <br>
 
 ### Examples of Landing Pages
-- [Slack]()
+- [Slack](https://slack.com/)
 - [Stripe]()
 - [Ghost]()
 - [Coinbase]()
