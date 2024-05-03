@@ -169,10 +169,10 @@ This about section needs to include:
 
 Add a video to your landing page that includes:
 
-An introduction to each of your team members
-Explains the story of what inspired your project
-Walks through 1-3 of the features
-Talks about what comes next for your project
+- An introduction to each of your team members
+- Explains the story of what inspired your project
+- Walks through 1-3 of the features
+- Talks about what comes next for your project
 
 </details>
 
