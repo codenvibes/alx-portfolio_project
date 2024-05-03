@@ -4,6 +4,12 @@
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/02eef3b807902eeb9cb8.gif"></div>
 
 
+<!-- <br>
+<hr>
+<h3><a href=>Notes</a></h3>
+<hr> -->
+
+
 <br>
 
 ### What is a Landing Page?
@@ -55,11 +61,6 @@ As you scroll down, there are three features that are briefly explained, and a g
 - [Hubspot - What is a landing page]()
 - [Quora – What is the difference between a landing page and a web page?]()
 
-
-<!-- <br>
-<hr>
-<h3><a href=>Notes</a></h3>
-<hr> -->
 
 <br>
 
