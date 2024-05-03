@@ -44,6 +44,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 - [Airbnb](https://www.airbnb.com/)
 - [Booking.com](https://www.booking.com/)
 - [Pinterest](https://www.pinterest.com/)
+
 *note: accessed from an incognito browser*
 
 
