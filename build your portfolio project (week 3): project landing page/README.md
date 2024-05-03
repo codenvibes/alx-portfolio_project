@@ -34,7 +34,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 - [Slack](https://slack.com/)
 - [Stripe](https://stripe.com/)
 - [Ghost](https://ghost.org/)
-- [Coinbase]()
+- [Coinbase](https://www.coinbase.com/)
 
 
 <br>
