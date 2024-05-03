@@ -111,9 +111,15 @@ Share two links here:
 ### 1. Intro section
 `mandatory`
 
-File: []()
 </summary>
 
+On page load, your project is introduced with:
+
+A large cover image
+The name of your project
+A one-line phrase and/or description of your project
+Navigation elements in the header bar to access each section you’ve defined (please have at least 2)
+A labeled button that navigates to the deployed project application.
 
 </details>
 
