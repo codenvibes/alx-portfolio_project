@@ -108,7 +108,7 @@ Share two links here:
 <details>
 <summary>
 
-### 1. 
+### 1. Intro section
 `mandatory`
 
 File: []()
