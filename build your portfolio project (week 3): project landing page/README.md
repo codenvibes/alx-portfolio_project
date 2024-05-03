@@ -17,7 +17,7 @@ Open an incognito browser and visit `google.com`. What do you see? The page has 
 
 This is not a landing page. This is an application that is looking for a search term as input.
 
-Now take a look at https://www.google.com/search/about/.
+Now take a look at `https://www.google.com/search/about/`.
 
 There is a splash banner with a tagline “Be in the know” with a logo.
 
