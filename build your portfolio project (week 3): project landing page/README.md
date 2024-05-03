@@ -57,7 +57,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 <br>
 
 ### More information about landing pages
-- [Instapage - 25 of the Best Landing Pages]()
+- [Instapage - 25 of the Best Landing Pages](https://instapage.com/blog/best-landing-page-examples)
 - [Hubspot - What is a landing page]()
 - [Quora – What is the difference between a landing page and a web page?]()
 
