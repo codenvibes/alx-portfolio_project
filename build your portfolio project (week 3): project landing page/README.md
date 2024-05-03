@@ -77,7 +77,7 @@ You’re welcome to build your own. We recommend using [github pages](https://pa
 
 If you would instead like to use an external service, here are some free options:
 - [Wix](https://www.wix.com/)
-- [MailChimp]()
+- [MailChimp](https://mailchimp.com/features/landing-pages/)
 - [QuickPages]()
 
 
