@@ -13,7 +13,7 @@ Let’s take a closer look at what makes a great landing page.
 
 Open an incognito browser and visit `google.com`. What do you see? The page has a few links in the header and footer section, but the majority of the page is empty except for the Google logo, a text input field, a microphone icon and two clickable buttons “Google Search” and “I’m Feeling Lucky”.
 
-<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/b08b8aa4896490dda392.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/b08b8aa4896490dda392.png"></div>
 
 This is not a landing page. This is an application that is looking for a search term as input.
 
@@ -21,7 +21,7 @@ Now take a look at `https://www.google.com/search/about/`.
 
 There is a splash banner with a tagline “Be in the know” with a logo.
 
-<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/c10632be0d48a77170f2.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/c10632be0d48a77170f2.png"></div>
 
 As you scroll down, there are three features that are briefly explained, and a gif to help visualize the feature they are referencing. After reading the page, the webpage visitor learns that the Google Search application is meant to provide information, including current events relevant to a user’s favorite topics or location and in-depth knowledge to be explored. This page does not have a text field to take in a search term!
 
