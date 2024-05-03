@@ -15,6 +15,12 @@ Open an incognito browser and visit `google.com`. What do you see? The page has 
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/b08b8aa4896490dda392.png"></div>
 
+This is not a landing page. This is an application that is looking for a search term as input.
+
+Now take a look at https://www.google.com/search/about/.
+
+There is a splash banner with a tagline “Be in the know” with a logo.
+
 
 <br>
 
