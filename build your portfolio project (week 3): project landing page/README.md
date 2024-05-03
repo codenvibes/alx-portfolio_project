@@ -126,7 +126,7 @@ On page load, your project is introduced with:
 <details>
 <summary>
 
-### 2. 
+### 2. Feature Section
 `mandatory`
 
 File: []()
