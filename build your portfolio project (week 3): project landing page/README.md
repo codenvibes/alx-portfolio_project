@@ -70,6 +70,11 @@ Your Portfolio Project landing page is intended to:
 - Tell the story about yourself as the developer
 - Direct traffic to your deployed app, and your github
 
+<br>
+
+### Resources
+
+
 <!-- <br>
 
 ## More Info -->
