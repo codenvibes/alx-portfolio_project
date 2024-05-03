@@ -23,6 +23,10 @@ There is a splash banner with a tagline “Be in the know” with a logo.
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/c10632be0d48a77170f2.png"></div>
 
+As you scroll down, there are three features that are briefly explained, and a gif to help visualize the feature they are referencing. After reading the page, the webpage visitor learns that the Google Search application is meant to provide information, including current events relevant to a user’s favorite topics or location and in-depth knowledge to be explored. This page does not have a text field to take in a search term!
+
+<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/2467bf770b996a240ced.png"></div>
+
 
 <br>
 
