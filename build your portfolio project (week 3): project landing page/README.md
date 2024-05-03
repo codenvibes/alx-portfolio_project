@@ -129,9 +129,15 @@ On page load, your project is introduced with:
 ### 2. Feature Section
 `mandatory`
 
-File: []()
 </summary>
 
+Somewhere following the intro section, include a section where the landing page highlights 3 key features.
+
+For each feature include:
+
+An image, screenshot, gif, or video
+The name of the feature
+A description of the feature
 
 </details>
 
