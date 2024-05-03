@@ -44,7 +44,7 @@ Amazon
 Airbnb
 Booking.com
 Pinterest
-note: accessed from an incognito browser
+*note: accessed from an incognito browser*
 
 
 <br>
