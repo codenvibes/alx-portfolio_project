@@ -135,9 +135,9 @@ Somewhere following the intro section, include a section where the landing page 
 
 For each feature include:
 
-An image, screenshot, gif, or video
-The name of the feature
-A description of the feature
+- An image, screenshot, gif, or video
+- The name of the feature
+- A description of the feature
 
 </details>
 
