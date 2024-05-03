@@ -144,7 +144,7 @@ For each feature include:
 <details>
 <summary>
 
-### 3. 
+### 3. About Section
 `mandatory`
 
 File: []()
