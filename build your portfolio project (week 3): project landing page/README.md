@@ -21,6 +21,8 @@ Now take a look at `https://www.google.com/search/about/`.
 
 There is a splash banner with a tagline “Be in the know” with a logo.
 
+<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/c10632be0d48a77170f2.png"></div>
+
 
 <br>
 
