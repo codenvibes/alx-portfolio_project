@@ -3,9 +3,24 @@
 
 <br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page/images/02eef3b807902eeb9cb8.gif"></div>
 
-<!-- <br>
+<br>
 
-## Background Context -->
+### What is a Landing Page?
+
+
+<br>
+
+### Examples of Landing Pages
+
+
+<br>
+
+### Examples of non-Landing Pages
+
+
+<br>
+
+### More information about landing pages
 
 
 <!-- <br>
