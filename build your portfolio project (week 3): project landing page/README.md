@@ -65,7 +65,10 @@ As you scroll down, there are three features that are briefly explained, and a g
 <br>
 
 ## Goal
-<!-- Add your requirements here -->
+Your Portfolio Project landing page is intended to:
+- Share information about your project
+- Tell the story about yourself as the developer
+- Direct traffic to your deployed app, and your github
 
 <!-- <br>
 
