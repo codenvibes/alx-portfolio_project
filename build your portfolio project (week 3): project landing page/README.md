@@ -64,7 +64,7 @@ As you scroll down, there are three features that are briefly explained, and a g
 
 <br>
 
-## Requirements
+## Goal
 <!-- Add your requirements here -->
 
 <!-- <br>
