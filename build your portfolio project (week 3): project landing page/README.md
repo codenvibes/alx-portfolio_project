@@ -81,9 +81,10 @@ If you would instead like to use an external service, here are some free options
 - [QuickPages](https://quickpages.co/)
 
 
-<!-- <br>
+<br>
 
-## More Info -->
+## More Info
+### 
 
 <br>
 
