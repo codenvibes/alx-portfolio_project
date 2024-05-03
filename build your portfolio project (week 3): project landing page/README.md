@@ -40,6 +40,11 @@ As you scroll down, there are three features that are briefly explained, and a g
 <br>
 
 ### Examples of non-Landing Pages
+Amazon
+Airbnb
+Booking.com
+Pinterest
+note: accessed from an incognito browser
 
 
 <br>
