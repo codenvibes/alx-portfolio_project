@@ -165,7 +165,6 @@ This about section needs to include:
 ### 4. Optional
 `#advanced`
 
-File: []()
 </summary>
 
 
