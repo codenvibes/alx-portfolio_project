@@ -98,6 +98,10 @@ If you would instead like to use an external service, here are some free options
 
 </summary>
 
+Share two links here:
+
+Landing page URL
+Deployed project page URL, or link to a Youtube video of a demo of the app
 
 </details>
 
