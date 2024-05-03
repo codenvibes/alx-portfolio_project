@@ -147,9 +147,15 @@ For each feature include:
 ### 3. About Section
 `mandatory`
 
-File: []()
 </summary>
 
+Somewhere following the feature section, include an About section.
+
+This about section needs to include:
+
+- A description of what inspired the project. Make this is a personal story, and not “because Holberton required this project”. It is reasonable to include the timeline, and feel free to also mention this is a Portfolio Project for Holberton School with a link.
+- Links to each team member’s LinkedIn, github and Twitter profile
+- A link to the github repository for the project
 
 </details>
 
