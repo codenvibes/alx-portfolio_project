@@ -93,7 +93,7 @@ If you would instead like to use an external service, here are some free options
 <details>
 <summary>
 
-### 0. 
+### 0. Share link to landing page and deployed app or video demo.
 `mandatory`
 
 </summary>
