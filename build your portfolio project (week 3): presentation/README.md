@@ -94,7 +94,6 @@ The presentation covers:
 ### 2. Presentation Delivery
 `mandatory`
 
-File: []()
 </summary>
 
 
