@@ -36,7 +36,7 @@ It might be helpful to take a look at this [playlist of Ted talks about giving g
 Here are some great speakers to observe and pattern your speaking after:
 
 - [Steve Jobs at Stanford Commencement 2005](https://www.youtube.com/watch?v=1i9kcBHX2Nw)
-- [Sheryl Sandberg: Take the Lead Challenge]()
+- [Sheryl Sandberg: Take the Lead Challenge](https://www.youtube.com/watch?v=_U-CRqK8M1c)
 - [Randy Pausch’s Last Lecture: Achieving your childhood dreams]()
 What do these speakers have in common? Why are their presentations effective?
 
