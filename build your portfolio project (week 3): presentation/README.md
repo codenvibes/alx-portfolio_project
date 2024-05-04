@@ -1,5 +1,5 @@
 <h1 align="center"><b>BUILD YOUR PORTFOLIO PROJECT (WEEK 3): PRESENTATION</b></h1>
-<div align="center"><code></code> <code></code> <code></code> <code></code> <code></code></div>
+<div align="center"><code>Group project</code> <code>Front-end</code> <code>Back-end</code> <code>Portfolio project</code><code>Presentation</code></div>
 
 <!-- <br>
 
