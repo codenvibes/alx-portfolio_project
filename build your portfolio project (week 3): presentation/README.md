@@ -120,6 +120,13 @@ Please note, if you are presenting remotely, you will need to have your webcam o
 
 </summary>
 
+For teams who are working on web apps, a live demo means that the presentation must load the deployed website during the presentation and demonstrate at least one of the key features.
+
+For teams who are not working on a web application, please prepare a video of the application being used. This includes the Maze project.
+
+Not all parts of the application need to be demonstrated. As an example, if a project required uploading a file and waiting for 30m to process the data, it is enough to show that the file can be uploaded and that there is output generated from a previous run that is representative of the eventual output.
+
+Scoring will be as follows: 5/5 points for a functional, engaging demo 3/5 points for a simple demo 0/5 points for a demo that meets unworkable errors or failures
 
 </details>
 
