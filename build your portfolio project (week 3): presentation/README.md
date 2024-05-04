@@ -96,6 +96,19 @@ The presentation covers:
 
 </summary>
 
+Whether you are presenting onsite or remotely, here are the things we look for when you are presenting.
+
+Please note, if you are presenting remotely, you will need to have your webcam on while your group is presenting.
+
+Were the Presenters audible?
+Did the Presenters speak clearly and at an understandable pace?
+Were there minimal filler words, like “Uhm”, “uhh”, “like”?
+Were the Presenters well-positioned on stage/in the camera’s view?
+Did the Presenters’ postures demonstrate confidence?
+Were the Presenters dressed professionally?
+Did the presentation utilize the time allotted? (it was not too long, or too short)
+Were the Presenters energetic?
+Did the Presenters engage the audience with a question?
 
 </details>
 
