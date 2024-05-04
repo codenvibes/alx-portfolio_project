@@ -91,7 +91,7 @@ The presentation covers:
 <details>
 <summary>
 
-### 2. 
+### 2. Presentation Delivery
 `mandatory`
 
 File: []()
