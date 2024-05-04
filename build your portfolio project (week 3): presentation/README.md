@@ -60,7 +60,7 @@ When you are ready for the review, click the red button at the bottom of the pag
 <details>
 <summary>
 
-### 0. 
+### 0. Share a link to your Google Slides
 `mandatory`
 
 </summary>
