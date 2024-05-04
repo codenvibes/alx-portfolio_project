@@ -63,7 +63,6 @@ When you are ready for the review, click the red button at the bottom of the pag
 ### 0. 
 `mandatory`
 
-File: []()
 </summary>
 
 
