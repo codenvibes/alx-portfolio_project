@@ -14,4 +14,4 @@
 
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%203)%3A%20project%20landing%20page">Build your portfolio project (Week 3): Project Landing Page</a></b>
 
-<b><a href=" ">Build your portfolio project (Week 3): Presentation</a></b>
+<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation">Build your portfolio project (Week 3): Presentation</a></b>
