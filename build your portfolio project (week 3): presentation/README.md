@@ -31,7 +31,7 @@ Presentations take practice. The mid-week PLD will give you that opportunity! Co
 <br>
 
 ### Great Presentations
-It might be helpful to take a look at this [playlist of Ted talks about giving great presentations]().
+It might be helpful to take a look at this [playlist of Ted talks about giving great presentations](https://www.ted.com/playlists/574/how_to_make_a_great_presentation).
 
 Here are some great speakers to observe and pattern your speaking after:
 
