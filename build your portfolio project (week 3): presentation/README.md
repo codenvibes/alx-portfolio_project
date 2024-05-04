@@ -138,7 +138,7 @@ Scoring will be as follows: 5/5 points for a functional, engaging demo 3/5 point
 
 </summary>
 
-This is a great list of guidelines for how to answer questions during a presentation: [Witt.com]()
+This is a great list of guidelines for how to answer questions during a presentation: [Witt.com](http://wittcom.com/how-to-handle-questions-and-answers-qa-made-simple/)
 
 If the Presenters receive questions from the audience, they are answered in a satisfactory way, or there is an offer to followup with an answer.
 
