@@ -1,6 +1,8 @@
 <h1 align="center"><b>BUILD YOUR PORTFOLIO PROJECT (WEEK 3): PRESENTATION</b></h1>
 <div align="center"><code>Group project</code> <code>Front-end</code> <code>Back-end</code> <code>Portfolio project</code> <code>Presentation</code></div>
 
+<br><div align=""><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation/images/6b2dc7c5f3fbe330d393.gif"></div>
+
 <!-- <br>
 
 ## Background Context -->
