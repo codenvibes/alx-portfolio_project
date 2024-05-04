@@ -152,6 +152,7 @@ If the Presenters receive questions from the audience, they are answered in a sa
 
 </summary>
 
+Now that you have completed your portfolio project, kindly book an appointment [here](https://jasper.alx-tools.com/portfolio-project-review?c=18&p=573)
 
 </details>
 
