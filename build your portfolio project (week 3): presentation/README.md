@@ -47,7 +47,7 @@ What do these speakers have in common? Why are their presentations effective?
 <br>
 
 ## More Info
-Manual QA Review
+### Manual QA Review
 When you are ready for the review, click the red button at the bottom of the page, copy the correction link and schedule it!
 
 <br>
