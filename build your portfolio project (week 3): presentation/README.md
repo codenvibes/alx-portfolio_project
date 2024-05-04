@@ -38,6 +38,7 @@ Here are some great speakers to observe and pattern your speaking after:
 - [Steve Jobs at Stanford Commencement 2005](https://www.youtube.com/watch?v=1i9kcBHX2Nw)
 - [Sheryl Sandberg: Take the Lead Challenge](https://www.youtube.com/watch?v=_U-CRqK8M1c)
 - [Randy Pausch’s Last Lecture: Achieving your childhood dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
+
 What do these speakers have in common? Why are their presentations effective?
 
 
