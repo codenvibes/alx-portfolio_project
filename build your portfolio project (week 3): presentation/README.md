@@ -148,7 +148,7 @@ If the Presenters receive questions from the audience, they are answered in a sa
 <summary>
 
 ### 5. Book for your review
-`mandatory`
+`book`
 
 File: []()
 </summary>
