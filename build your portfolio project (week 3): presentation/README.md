@@ -133,7 +133,7 @@ Scoring will be as follows: 5/5 points for a functional, engaging demo 3/5 point
 <details>
 <summary>
 
-### 4. 
+### 4. Answering audience questions
 `mandatory`
 
 File: []()
