@@ -76,6 +76,15 @@ When you are ready for the review, click the red button at the bottom of the pag
 
 </summary>
 
+The presentation covers:
+
+Introduction of team members, and each person’s role (1pt)
+Story of how your project was inspired (1pt)
+Technology & Architecture (5pt)
+Core algorithms and code snippet (5pt)
+Discussion of process, collaboration and timeline (2pt)
+Challenge(s) overcome (5pt)
+Learnings about technical interests as a result of this project (1 pt)
 
 </details>
 
