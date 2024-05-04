@@ -74,7 +74,6 @@ When you are ready for the review, click the red button at the bottom of the pag
 ### 1. Presentation Content
 `mandatory`
 
-File: []()
 </summary>
 
 
