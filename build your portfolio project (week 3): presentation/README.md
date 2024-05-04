@@ -3,9 +3,9 @@
 
 <br><div align=""><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation/images/6b2dc7c5f3fbe330d393.gif"></div>
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## The Presentation
 
 
 <!-- <br>
