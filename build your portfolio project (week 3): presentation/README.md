@@ -27,6 +27,8 @@ You will have 2 minutes setup, 8 minutes to present followed by 8 min Q&A.
 
 Presentations take practice. The mid-week PLD will give you that opportunity! Come prepared to practice.
 
+<br>
+
 ### Great Presentations
 It might be helpful to take a look at this playlist of Ted talks about giving great presentations.
 
