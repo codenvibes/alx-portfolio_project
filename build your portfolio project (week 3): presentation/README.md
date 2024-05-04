@@ -43,10 +43,6 @@ What do these speakers have in common? Why are their presentations effective?
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
-<br>
-
-## Requirements
-<!-- Add your requirements here -->
 
 <!-- <br>
 
