@@ -150,7 +150,6 @@ If the Presenters receive questions from the audience, they are answered in a sa
 ### 5. Book for your review
 `book`
 
-File: []()
 </summary>
 
 
