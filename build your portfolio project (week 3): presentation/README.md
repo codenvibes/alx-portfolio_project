@@ -115,7 +115,7 @@ Please note, if you are presenting remotely, you will need to have your webcam o
 <details>
 <summary>
 
-### 3. 
+### 3. Live Demo
 `mandatory`
 
 File: []()
