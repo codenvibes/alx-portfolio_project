@@ -21,6 +21,7 @@ The presentation will consist of several parts:
 - Learnings about technical interests as a result of this project
 - Time to answer questions from the audience
 - Feedback and comments provided by technical staff, possibly alum guests
+
 The length of time for a presentation will be 18 minutes
 
 You will have 2 minutes setup, 8 minutes to present followed by 8 min Q&A.
@@ -30,7 +31,7 @@ Presentations take practice. The mid-week PLD will give you that opportunity! Co
 <br>
 
 ### Great Presentations
-It might be helpful to take a look at this playlist of Ted talks about giving great presentations.
+It might be helpful to take a look at this [playlist of Ted talks about giving great presentations]().
 
 Here are some great speakers to observe and pattern your speaking after:
 
