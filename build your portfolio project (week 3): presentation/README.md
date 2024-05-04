@@ -28,6 +28,14 @@ You will have 2 minutes setup, 8 minutes to present followed by 8 min Q&A.
 Presentations take practice. The mid-week PLD will give you that opportunity! Come prepared to practice.
 
 ### Great Presentations
+It might be helpful to take a look at this playlist of Ted talks about giving great presentations.
+
+Here are some great speakers to observe and pattern your speaking after:
+
+Steve Jobs at Stanford Commencement 2005
+Sheryl Sandberg: Take the Lead Challenge
+Randy Pausch’s Last Lecture: Achieving your childhood dreams
+What do these speakers have in common? Why are their presentations effective?
 
 
 <!-- <br>
