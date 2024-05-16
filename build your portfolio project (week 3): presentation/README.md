@@ -65,7 +65,7 @@ When you are ready for the review, click the red button at the bottom of the pag
 
 </summary>
 
-<a href="">slideshow</a>
+<a href="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation/slideshow.pdf">slideshow</a>
 
 </details>
 
