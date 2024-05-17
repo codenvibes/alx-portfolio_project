@@ -180,11 +180,11 @@ Again, favor verbosity. Suggestions for what to write about here:
 
 </summary>
 
-Describe yourself in a few sentences
-Link to the GitHub link for the project
-Link to the deployed project page
-Link to the project’s landing page
-Link to your LinkedIn profile
+- Describe yourself in a few sentences
+- Link to the GitHub link for the project
+- Link to the deployed project page
+- Link to the project’s landing page
+- Link to your LinkedIn profile
 
 </details>
 
