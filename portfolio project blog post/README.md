@@ -32,7 +32,7 @@ If you’ve done the work planning and researching along the way, you’ll have 
 
 ## Some examples:
 - [How I designed and launched the official Scrabble keyboard](https://hackernoon.com/follow-your-dreams-literally-how-i-designed-and-launched-the-official-scrabble-keyboard-d1ce3ab0f047)
-- [Announcing SweetAlert]()
+- [Announcing SweetAlert](https://hackernoon.com/follow-your-dreams-literally-how-i-designed-and-launched-the-official-scrabble-keyboard-d1ce3ab0f047)
 - [Mistakes I made writing a Django App (and how I fixed them)]()
 
 
