@@ -1,5 +1,5 @@
 <h1 align="center"><b>PORTFOLIO PROJECT BLOG POST</b></h1>
-<div align="center"><code>Group project</code> <code></code> <code></code></div>
+<div align="center"><code>Group project</code> <code>Portfolio project</code> <code></code></div>
 
 <!-- <br>
 
