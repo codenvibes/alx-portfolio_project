@@ -33,7 +33,7 @@ If you’ve done the work planning and researching along the way, you’ll have 
 ## Some examples:
 - [How I designed and launched the official Scrabble keyboard](https://hackernoon.com/follow-your-dreams-literally-how-i-designed-and-launched-the-official-scrabble-keyboard-d1ce3ab0f047)
 - [Announcing SweetAlert](https://hackernoon.com/follow-your-dreams-literally-how-i-designed-and-launched-the-official-scrabble-keyboard-d1ce3ab0f047)
-- [Mistakes I made writing a Django App (and how I fixed them)]()
+- [Mistakes I made writing a Django App (and how I fixed them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 
 
 <!-- <br>
