@@ -115,7 +115,7 @@ My team really cared about bicycling, so I went along with it because I thought 
 <details>
 <summary>
 
-### 3. 
+### 3. Summarize what you've accomplished with your project
 `mandatory`
 
 </summary>
