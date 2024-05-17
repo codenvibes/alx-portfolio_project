@@ -6,6 +6,7 @@ Portfolio project</code></div>
 <br>
 
 ## Concepts
+- [Job Search Resources]()
 
 <!-- <br>
 
