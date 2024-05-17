@@ -119,7 +119,7 @@ One letter variables for anything besides temporary counters are unhelpful. Take
 
 </summary>
 
-The required task here is to improve your README.md to be complete. It should contain all standard aspects of a traditional README.md including:
+The required task here is to improve your `README.md` to be complete. It should contain all standard aspects of a traditional `README.md` including:
 
 Project Name
 Introduction
