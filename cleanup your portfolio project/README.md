@@ -23,6 +23,7 @@
 <br>
 
 ## Let’s Clean Up
+Of all the things that a potential employer looks at, code is the most important. It is after all, what they are hiring you to do. Also remember, Recruiters and Hiring Managers are busy people. Here is a real-world scenario that may help you understand how important your GitHub is to eventual job placement.
 
 
 <br>
