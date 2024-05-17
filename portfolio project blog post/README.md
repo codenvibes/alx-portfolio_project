@@ -120,6 +120,15 @@ My team really cared about bicycling, so I went along with it because I thought 
 
 </summary>
 
+Describe the result of your project.
+
+Include a diagram of the architecture that clearly shows the flow of data through your application. If the one you created for the proposal is still accurate, use it. Otherwise create a new one that reflects the actual flow of data.
+Summarize the technologies you used and why you (or your team) made those choices. Do not list the technologies without context. For example, do not write “We used HTML, JS, Python, Django”. Instead, include the context like “For the Frontend we chose to use HTML5, CSS3 and JavaScript without any additional frameworks. We opted not to use other frameworks because we wanted to dedicate our time to solidifying our understanding of JavaScript.”
+Provide an overview of 1-3 features you’ve completed. Here’s some examples of what is and isn’t a feature:
+Feature: OAuth via Facebook. It is functionality that has value for the user.
+Not a feature: The entire application is styled with Bootstrap. There is no functionality mentioned here.
+Feature: The website is responsive and compatible with mobile. This means users can access the project from a mobile view!
+Not a feature: The project does not have a backend. This does not have value for the end-user.
 
 </details>
 
