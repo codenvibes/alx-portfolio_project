@@ -1,4 +1,4 @@
-<h1 align="center"><b>CLEANUP YOUR PORTFOLIO PROJECT</b></h1>
+<h1 align="center"><b>CLEANUP YOUR <a href="https://github.com/codenvibes/social_media_app.git">PORTFOLIO PROJECT</a></b></h1>
 <div align="center"><code>Group project</code> <code>Portfolio project</code></div>
 
 <br>
