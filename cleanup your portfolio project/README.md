@@ -129,7 +129,7 @@ The required task here is to improve your `README.md` to be complete. It should 
 - Contributing
 - Related projects
 - Licensing
-A couple resources: * [What your code repository says about you](https://opensource.com/open-organization/17/1/repo-tells-a-story) * Here’s an [awesome list of READMEs]().
+A couple resources: * [What your code repository says about you](https://opensource.com/open-organization/17/1/repo-tells-a-story) * Here’s an [awesome list of READMEs](https://github.com/matiassingers/awesome-readme).
 
 At least one screenshot of your app must be included.
 
