@@ -86,7 +86,6 @@ Please include your LinkedIn link and the source post.
 ### 3. 
 `mandatory`
 
-File: []()
 </summary>
 
 
