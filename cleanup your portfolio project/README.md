@@ -6,7 +6,7 @@ Portfolio project</code></div>
 <br>
 
 ## Concepts
-- [Job Search Resources]()
+- [Job Search Resources](https://intranet.alxswe.com/concepts/100)
 
 <!-- <br>
 
