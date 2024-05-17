@@ -81,7 +81,7 @@ Example: Our project helps bicyclists find a route with the least elevation betw
 <details>
 <summary>
 
-### 2. 
+### 2. Tell a story about yourself which relates to why you chose to work on this project
 `mandatory`
 
 </summary>
