@@ -81,9 +81,9 @@ Look through the history of your commits and view them from the perspective of a
 ### 2. (Re)Organize your files
 `mandatory`
 
-File: []()
 </summary>
 
+Clean up and remove any files that serve no purpose. This includes temp files, unused libraries, pycache, etc.
 
 </details>
 
