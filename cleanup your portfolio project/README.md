@@ -138,10 +138,9 @@ At least one screenshot of your app must be included.
 <details>
 <summary>
 
-### 6. 
+### 6. Optional: Include much more technical detail and incorporate your story into your `README.md`
 `#advanced`
 
-File: []()
 </summary>
 
 
