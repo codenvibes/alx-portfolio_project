@@ -78,7 +78,7 @@ Look through the history of your commits and view them from the perspective of a
 <details>
 <summary>
 
-### 2. 
+### 2. (Re)Organize your files
 `mandatory`
 
 File: []()
