@@ -102,7 +102,7 @@ Are your functions/classes too big? Do they have too many responsibilities? Take
 <details>
 <summary>
 
-### 4. 
+### 4. Spruce up variable names
 `mandatory`
 
 File: []()
