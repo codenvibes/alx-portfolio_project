@@ -52,7 +52,6 @@ If you’ve done the work planning and researching along the way, you’ll have 
 ### 0. Share your blog post
 `mandatory`
 
-File: []()
 </summary>
 
 Please include your LinkedIn link and the source post.
