@@ -48,7 +48,7 @@ She randomly selects some projects and pokes around. She sees a checkin comment,
 <details>
 <summary>
 
-### 0. 
+### 0. Comment all your code
 `mandatory`
 
 File: []()
