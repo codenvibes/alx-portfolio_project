@@ -2,6 +2,11 @@
 <div align="center"><code>Group project</code> <code>
 Portfolio project</code></div>
 
+
+<br>
+
+## Concepts
+
 <!-- <br>
 
 ## Background Context -->
