@@ -51,7 +51,7 @@ She randomly selects some projects and pokes around. She sees a checkin comment,
 ### 0. Comment all your code
 `mandatory`
 
-link: [https://github.com/codenvibes/social_media_app.git]()
+Link: [https://github.com/codenvibes/social_media_app.git]()
 
 </summary>
 
