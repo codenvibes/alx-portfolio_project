@@ -105,16 +105,16 @@ Are your functions/classes too big? Do they have too many responsibilities? Take
 ### 4. Spruce up variable names
 `mandatory`
 
-File: []()
 </summary>
 
+One letter variables for anything besides temporary counters are unhelpful. Take the time to go through and update variable names to conform to convention and be descriptive.
 
 </details>
 
 <details>
 <summary>
 
-### 5. 
+### 5. Complete your README.md
 `mandatory`
 
 File: []()
