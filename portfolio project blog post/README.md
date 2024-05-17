@@ -36,9 +36,9 @@ If you’ve done the work planning and researching along the way, you’ll have 
 - [Mistakes I made writing a Django App (and how I fixed them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 
 
-<!-- <br>
+<br>
 
-## More Info -->
+## More Info
 
 <br>
 
