@@ -157,7 +157,7 @@ Good example: *“Early in the project I had decided to provide a save feature f
 <details>
 <summary>
 
-### 5. 
+### 5. Share what you've learned
 `mandatory`
 
 </summary>
