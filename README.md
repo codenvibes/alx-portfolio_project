@@ -16,4 +16,4 @@
 
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation">Build your portfolio project (Week 3): Presentation</a></b>
 
-<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation">Cleanup your Portfolio Project</a></b>
+<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/cleanup%20your%20portfolio%20project">Cleanup your Portfolio Project</a></b>
