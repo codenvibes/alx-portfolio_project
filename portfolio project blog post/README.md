@@ -52,6 +52,7 @@ If you’ve done the work planning and researching along the way, you’ll have 
 ### 0. Share your blog post
 `mandatory`
 
+Link: []()
 </summary>
 
 Please include your LinkedIn link and the source post.
@@ -97,7 +98,6 @@ Please include your LinkedIn link and the source post.
 ### 4. 
 `mandatory`
 
-File: []()
 </summary>
 
 
