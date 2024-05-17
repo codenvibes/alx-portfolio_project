@@ -31,6 +31,9 @@ If you’ve done the work planning and researching along the way, you’ll have 
 <br>
 
 ## Some examples:
+How I designed and launched the official Scrabble keyboard
+Announcing SweetAlert
+Mistakes I made writing a Django App (and how I fixed them)
 
 
 <!-- <br>
