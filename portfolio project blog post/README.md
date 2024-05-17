@@ -162,6 +162,13 @@ Good example: *“Early in the project I had decided to provide a save feature f
 
 </summary>
 
+Again, favor verbosity. Suggestions for what to write about here:
+
+Technical take-aways
+What you might do differently
+What you learned about yourself as an engineer
+How this project informs your engineering path in the future
+Confirm or question any beliefs you held prior to this project (e.g. “Actually, emacs is a really powerful editor and I can understand why it is preferable to vim.”)
 
 </details>
 
