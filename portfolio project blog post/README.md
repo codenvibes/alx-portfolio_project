@@ -21,16 +21,16 @@ If you’ve done the work planning and researching along the way, you’ll have 
 
 <br>
 
-## Requirements
+## Requirements:
 - Share your blog post at least on Twitter and LinkedIn
 - Each person must write their own post, even if you worked in a team.
 - The blog post must be done and published before the first deadline.
 - Must be written in English
 
 
-<!-- <br>
+<br>
 
-## Background Context -->
+## Some examples:
 
 
 <!-- <br>
