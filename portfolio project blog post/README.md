@@ -90,7 +90,7 @@ This is not simply a sentence to describe an affinity for something and therefor
 
 Here’s an example of a story that is too simple:
 
-Everyone on our team really likes riding bicycles, so we thought it would be cool to do a project focused on bicycling.
+*Everyone on our team really likes riding bicycles, so we thought it would be cool to do a project focused on bicycling.*
 
 This is a better example of a story:
 
