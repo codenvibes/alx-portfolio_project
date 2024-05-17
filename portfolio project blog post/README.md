@@ -120,7 +120,6 @@ Please include your LinkedIn link and the source post.
 ### 6. 
 `mandatory`
 
-File: []()
 </summary>
 
 
