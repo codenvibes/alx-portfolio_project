@@ -175,7 +175,7 @@ Again, favor verbosity. Suggestions for what to write about here:
 <details>
 <summary>
 
-### 6. 
+### 6. Add a short paragraph about yourself after the concluding paragraph
 `mandatory`
 
 </summary>
