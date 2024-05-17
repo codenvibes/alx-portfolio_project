@@ -86,6 +86,29 @@ Example: Our project helps bicyclists find a route with the least elevation betw
 
 </summary>
 
+This is not simply a sentence to describe an affinity for something and therefore, you made this project. This story needs to share something personal about yourself that people can’t easily know about you by looking at your Twitter.
+
+Here’s an example of a story that is too simple:
+
+Everyone on our team really likes riding bicycles, so we thought it would be cool to do a project focused on bicycling.
+
+This is a better example of a story:
+
+Everyone on our team enjoys riding bicycles, so it was an easy project focus to agree upon. For me, bicycling has always been the best way to get around. In past jobs I’ve had, I’ve been able to commute by bicycle so that I could get my workout in before and after work.
+
+This is an example of a story that will really captivate your audience:
+
+Everyone on our team enjoys riding bicycles, so it was an easy project focus to agree upon. For me, I grew up in a small middle-of-America town surrounded by farms and forests. My best friend lived in the next town over, and the only way I could visit her was by riding my bicycle. On weekends, and holiday breaks I would get up at the break of dawn and bike for over an hour to my friend’s place. The road I took was lined by corn fields on both sides with the sun rising on the left. Whenever I bike in the city now, it brings back these hours I spent chasing the brightening horizon at dawn with the smell of the harvest around me. I hope to make bicycling more accessible so that more people, especially city people, can learn the joy that bicycling can bring to their lives.
+
+A question I often hear is: “But I don’t have a story. I just thought [X] was cool so I thought I would do a project about it. What do I write?”
+
+Here’s a couples examples of what you might write if this was the case:
+
+Oddly enough, I don’t really have any interest in bicyling, even though my project is all about bicycle routes. I had decided very early on that I wanted to work with the Google Maps API, and needed a reason to use it. A few weeks ago I had lunch with an engineering friend of mine to brainstorm project ideas and he described a problem he faces every day: He enjoys riding his bicycle to work, but still hasn’t quite found the optimal path from home to work, and work to home with the least uphill. I learned this about myself– it’s a lot more interesting to work on something when I’m directly helping someone solve a problem they have. For the entirety of this project, I’ve been working closely with him to iterate and find him an easy path to and from his home!
+
+It’s okay if the story just isn’t there. Find another way to share something about yourself.
+
+My team really cared about bicycling, so I went along with it because I thought it was an interesting technical challenge. To celebrate completing our project, we rented bicycles and went for a ride around the city. I moved to this city from a small middle-of-America town surrounded by farms and forests 9 months ago. I had been out of work for 2 years ever since they shut down the button factory and laid off 350 workers. My entire career had been spent as the mechanic monitoring the hydrolic systems at this factory for the past 5 years. I have two daughters and a wife who supported me in this transition across the country to take a bet on my potential to retrain as a Software Engineer. I never would have guessed that 9 months later I would be riding a bike across the Golden Gate Bridge with 2 amazing engineers I’ve met through my time at Holberton School.
 
 </details>
 
