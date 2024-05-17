@@ -1,4 +1,4 @@
-<h1 align="center"><b>. PORTFOLIO PROJECT BLOG POST</b></h1>
+<h1 align="center"><b>PORTFOLIO PROJECT BLOG POST</b></h1>
 <div align="center"><code></code> <code></code> <code></code></div>
 
 <!-- <br>
