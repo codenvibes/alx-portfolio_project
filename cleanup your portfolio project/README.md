@@ -90,12 +90,12 @@ Clean up and remove any files that serve no purpose. This includes temp files, u
 <details>
 <summary>
 
-### 3. 
+### 3. Refactor and Simplify
 `mandatory`
 
-File: []()
 </summary>
 
+Are your functions/classes too big? Do they have too many responsibilities? Take time to refactor anything that may be unmanageable.
 
 </details>
 
