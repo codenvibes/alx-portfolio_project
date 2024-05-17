@@ -13,10 +13,6 @@ For this project, write a blog post about your portfolio project to capture all 
 
 If you’ve done the work planning and researching along the way, you’ll have a lot more material to draw from. Feel free to refer back to the plans you created for yourself, and reflect upon whether those may be interesting to share. Also feel free to include images, screenshots, or text from the proposals.
 
-<!-- <br>
-
-## Background Context -->
-
 
 <!-- <br>
 <hr>
@@ -26,7 +22,16 @@ If you’ve done the work planning and researching along the way, you’ll have 
 <br>
 
 ## Requirements
-<!-- Add your requirements here -->
+Share your blog post at least on Twitter and LinkedIn
+Each person must write their own post, even if you worked in a team.
+The blog post must be done and published before the first deadline.
+Must be written in English
+
+
+<!-- <br>
+
+## Background Context -->
+
 
 <!-- <br>
 
