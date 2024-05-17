@@ -24,14 +24,16 @@
 
 ## Let’s Clean Up
 
+
 <br>
 
 ## Top of the Resumé Pile at DreamCo
 <!-- Add your requirements here -->
 
-<!-- <br>
 
-## More Info -->
+<br>
+
+## More Info
 
 <br>
 
