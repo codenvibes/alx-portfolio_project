@@ -94,7 +94,7 @@ Here’s an example of a story that is too simple:
 
 This is a better example of a story:
 
-Everyone on our team enjoys riding bicycles, so it was an easy project focus to agree upon. For me, bicycling has always been the best way to get around. In past jobs I’ve had, I’ve been able to commute by bicycle so that I could get my workout in before and after work.
+*Everyone on our team enjoys riding bicycles, so it was an easy project focus to agree upon. For me, bicycling has always been the best way to get around. In past jobs I’ve had, I’ve been able to commute by bicycle so that I could get my workout in before and after work.*
 
 This is an example of a story that will really captivate your audience:
 
