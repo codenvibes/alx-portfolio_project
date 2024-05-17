@@ -49,7 +49,7 @@ If you’ve done the work planning and researching along the way, you’ll have 
 <details>
 <summary>
 
-### 0. 
+### 0. Share your blog post
 `mandatory`
 
 File: []()
