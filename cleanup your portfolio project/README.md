@@ -55,7 +55,7 @@ She randomly selects some projects and pokes around. She sees a checkin comment,
 
 Go through and add comments to your code. The more, the better. If you’ve already done this, great! You have nothing more to do.
 
-If you’re unclear about the standards for comments, look up what is expected. Here’s an example from Digital Ocean detailing the standard commenting practices for Python 3.
+If you’re unclear about the standards for comments, look up what is expected. Here’s an [example from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-python-3) detailing the standard commenting practices for Python 3.
 
 Provide a link to your Portfolio Project’s github URL
 
