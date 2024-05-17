@@ -6,6 +6,10 @@
 ## Concepts
 - [Job Search Resources](https://intranet.alxswe.com/concepts/100)
 
+<br>
+
+<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/cleanup%20your%20portfolio%20project/images/fa1eda41767146340b2f.gif">
+
 <!-- <br>
 
 ## Background Context -->
