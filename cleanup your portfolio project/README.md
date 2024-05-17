@@ -71,6 +71,7 @@ Provide a link to your Portfolio Project’s github URL
 
 </summary>
 
+Look through the history of your commits and view them from the perspective of a potential employer. Would you hire yourself? Are your commit messages clear and informative? Is there a way to edit a commit message on GitHub?
 
 </details>
 
