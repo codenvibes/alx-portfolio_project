@@ -147,7 +147,7 @@ Your portfolio project will **not** be the most technically impressive applicati
 
 Pull from all your planning materials, your blog post, and project screenshots to create a `README.md` that stands out and tells the story of this project. This is a wonderful place to go into more technical depth than you did in your blog post. Really explain the details of the algorithm you chose, or the details of why you chose a specific solution. Add visuals (gifs, screenshots, emoji!) to bring the file to life!
 
-Here are some examples of README.md‘s that tell a great story:
+Here are some examples of `README.md`‘s that tell a great story:
 
 DeepFakes
 WikiGraph
