@@ -62,11 +62,19 @@ Please include your LinkedIn link and the source post.
 <details>
 <summary>
 
-### 1. 
+### 1. Introduction
 `mandatory`
 
 </summary>
 
+Introduce your project with a few key elements:
+
+Include a banner image on your post that is a screenshot (or a logo) of your application
+Define the purpose of your project
+Share your team members, roles and timeline
+Describe who your project was created for
+Explain what your personal focus was
+Example: Our project helps bicyclists find a route with the least elevation between two points in San Francisco. Our team members are John Smith, Jane Doe, and myself. As an engineering problem, we wanted to focus on 2 things: creating an experience that would be both web and mobile-friendly, and also sourcing a reliable and sophisticated API. John worked on [XYZ], Jane and I worked on [ABC].
 
 </details>
 
