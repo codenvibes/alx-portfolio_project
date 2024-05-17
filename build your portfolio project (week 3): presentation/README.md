@@ -63,7 +63,7 @@ When you are ready for the review, click the red button at the bottom of the pag
 ### 0. Share a link to your Google Slides
 `mandatory`
 
-File: <a href="https://github.com/codenvibes/alx-portfolio_project/blob/master/build%20your%20portfolio%20project%20(week%203)%3A%20presentation/slideshow.pdf">slideshow</a>
+File: <a href="https://docs.google.com/presentation/d/1kdLkqTr8R2oOa_BbWNLF8vH2OvXl2j-wFHLfvv9jyIw/edit#slide=id.p">slideshow</a>
 
 </summary>
 
