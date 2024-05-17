@@ -66,10 +66,9 @@ Provide a link to your Portfolio Project’s github URL
 <details>
 <summary>
 
-### 1. 
+### 1. Clean up those commit messages
 `mandatory`
 
-File: []()
 </summary>
 
 
