@@ -135,7 +135,7 @@ Describe the result of your project.
 <details>
 <summary>
 
-### 4. 
+### 4. Write about your most difficult technical challenge in depth
 `mandatory`
 
 </summary>
