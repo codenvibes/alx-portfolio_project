@@ -151,7 +151,7 @@ Here are some examples of `README.md`‘s that tell a great story:
 
 - [DeepFakes](https://github.com/deepfakes/faceswap)
 - [WikiGraph](https://github.com/erabug/wikigraph)
-- [Job Odyssey]()
+- [Job Odyssey](https://github.com/christopherchoe/jobodyssey_hbtn)
 - [ideadog]()
 
 </details>
