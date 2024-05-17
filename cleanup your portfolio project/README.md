@@ -39,7 +39,7 @@ She randomly selects some projects and pokes around. She sees a checkin comment,
 <br>
 
 ## More Info
-Manual QA Review
+### Manual QA Review
 It is your responsibility to request a review for your code from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.
 
 <br>
