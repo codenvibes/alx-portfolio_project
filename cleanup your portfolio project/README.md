@@ -149,7 +149,7 @@ Pull from all your planning materials, your blog post, and project screenshots t
 
 Here are some examples of `README.md`‘s that tell a great story:
 
-- [DeepFakes]()
+- [DeepFakes](https://github.com/deepfakes/faceswap)
 - [WikiGraph]()
 - [Job Odyssey]()
 - [ideadog]()
