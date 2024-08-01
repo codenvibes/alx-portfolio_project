@@ -116,5 +116,3 @@
 <li><strong>The team will record a pitch and share the link to the recording in the below task 0</strong></li>
 </ul>
 
-  </div>
-</div>
