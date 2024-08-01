@@ -69,6 +69,8 @@
 
 <p>Working solo is also fine - just don’t think too big or find quick-win to achieve your project.</p>
 
+
+<br>
 <h2>No idea?</h2>
 
 <p>Be creative doesn’t mean “create a web application that will make the world a better place” - no - it means: do what you really want: it can be applying concept your learn during the curriculum - it can be exploring a new technology (Go, Rails, etc.) - or make a clone of an existing platform (I was not joking about the learning platform or video streaming…)</p>
