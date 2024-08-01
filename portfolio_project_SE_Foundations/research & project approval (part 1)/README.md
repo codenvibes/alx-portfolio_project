@@ -160,7 +160,7 @@ In a section named “Technologies”:
 
 In a section named “Challenge”:
 
-- Describe the problem the Portfolio Project is intended to solve.
+- Describe the problem the Portfolio Project is intended to solve. 
 - Explain what the Portfolio Project will not solve
 - Explain who the Portfolio Project will help and/or who the users will be
 - Is this project relevant or dependent on a specific locale?
