@@ -120,7 +120,7 @@ Set up your Trello board with the following columns:
 - Deployed
 
 Example:
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/b56ae0e3c81d9bde6e3d.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%203)/images/b56ae0e3c81d9bde6e3d.png"></div>
 
 
 </details>
