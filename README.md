@@ -19,3 +19,15 @@
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/portfolio%20project%20blog%20post">Portfolio Project Blog post</a></b>
 
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_SE_Foundations/cleanup%20your%20portfolio%20project">Cleanup your Portfolio Project</a></b>
+
+
+<!-- --------------------------------------------------------------------------------------------------- -->
+
+<br>
+<h2><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_Short_Specializations">Portfolio Project Short Specializations</a></h2>
+
+<b><a href=" ">Webstack - Portfolio Project - Pitch</a></b>
+
+<b><a href=" ">Final 2024 Project: Reflect & Share</a></b>
+
+<b><a href=" ">Webstack - Portfolio Project</a></b>
