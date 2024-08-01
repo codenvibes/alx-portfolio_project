@@ -134,7 +134,7 @@ Example:
 </summary>
 
 In the “proposed” column, create cards to fully represent the engineering tasks necessary to implement to satisfy the User Stories defined for your MVP. For each card, attach detailed descriptions, mockups, diagrams or technical specifications relevant to the engineering task.
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/Screen_Shot_2020-02-24_at_2.27.20_PM.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%203)/images/Screen_Shot_2020-02-24_at_2.27.20_PM.png"></div>
 
 </details>
 
