@@ -129,7 +129,49 @@
 
 </summary>
 
+<p>As mentioned in the beginning of this project, you have some questions to ask yourself:</p>
 
+<ul>
+<li>👨‍💻 Solo or team 👩‍💻 👨‍💻 👩‍💻 👨‍💻? </li>
+<li>What do I want to build?</li>
+<li>How do I want to build it?</li>
+<li>Is it possible to build it in less than 2 weeks?</li>
+<li>Do I like what I’m doing?</li>
+</ul>
+
+<p>When you know these answers, you will have to prepare a pitch:</p>
+
+<ul>
+<li>Max 10min of pitch (please repeat to not go over)</li>
+<li>Google slide presentation with:
+
+<ul>
+<li>Name of the project</li>
+<li>List of team members</li>
+<li>Description of the project</li>
+<li>Learning objectives</li>
+<li>Technologies used</li>
+<li>Third services used if applicable</li>
+<li>Challenges already identified</li>
+<li>Schedule of work (by using <a href="https://intranet.alxswe.com/rltoken/T8mJBmiyDQV3pUBGRAHPkA" title="Trello" target="_blank">Trello</a> or <a href="https://intranet.alxswe.com/rltoken/w_T3skcYROD3tCTBMbIEvg" title="Kanban board" target="_blank">Kanban board</a> or other) - don’t forget that you have less then 4 weeks (27 days exactly)</li>
+<li>Mock-ups if applicable</li>
+</ul></li>
+<li>Video Recording of one or more team members presenting the pitch (using the Google Slide presentation)</li>
+</ul>
+
+<p>Please post your slides and the recording to your web-stack portfolio pitch here.</p>
+
+<p>Let’s do it! 💪</p>
+
+<p>Note: </p>
+
+<p>If you are multiple people in your team, decide who is going to do the review.</p>
+
+<p>Go to slack channel #cohort_X_review (your cohort) and look for “Looking for review for webstack portfolio pitch” that has not been replied to. Once you reply to this message you will become each others reviewers. Start a DM with one another. Share the corection link in that DM and review each other. </p>
+
+<p>In case you have not found “Looking for review for webstack portfolio pitch” - then start a new thread with “Looking for review for webstack portfolio pitch” and await a new team to find you.</p>
+
+<p>Happy reviewing!</p>
 
 </details>
 
