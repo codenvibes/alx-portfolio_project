@@ -160,7 +160,7 @@ For each card, assign ownership to a team member. This should make sense given t
 </summary>
 
 Invite the technical staff to be a collaborator on the Trello board so that each proposed task can be commented upon and moved into the approved column.
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/41179d465bb319c1ff3b.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%203)/images/41179d465bb319c1ff3b.png"></div>
 
 </details>
 
