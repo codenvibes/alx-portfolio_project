@@ -97,7 +97,7 @@
 <h2>Resources</h2>
 
 <ul>
-<li><a href="https://intranet.alxswe.com/rltoken/IGqvZnIazd4TmRTiE8rvHg" title="How To Create an Effective Software Project Plan" target="_blank">How To Create an Effective Software Project Plan</a></li>
+<li><a href="https://www.indeed.com/career-advice/career-development/software-project-plan" title="How To Create an Effective Software Project Plan" target="_blank">How To Create an Effective Software Project Plan</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/I-6k7FO1Yr0fKHTicGI6Hw" title="11 tips to plan, organize, and execute software engineering processes" target="_blank">11 tips to plan, organize, and execute software engineering processes</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/pqidk_1E5xNLB0HJ5HzTPg" title="How to organize a one-man project?" target="_blank">How to organize a one-man project?</a></li>
 <li><a href="https://intranet.alxswe.com/rltoken/lmzex7kBBlhOoEWVPHhnfA" title="Software project planning" target="_blank">Software project planning</a></li>
