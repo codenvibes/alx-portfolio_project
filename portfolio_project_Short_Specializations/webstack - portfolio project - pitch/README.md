@@ -79,6 +79,8 @@
 
 <p>Also, a web application doesn’t only mean “Website”, it can also be just an API.</p>
 
+
+<br>
 <h2>Steps of this portfolio project</h2>
 
 <p>To end the curriculum, the portfolio project is split in 3 parts:</p>
