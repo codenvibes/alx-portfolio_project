@@ -55,6 +55,8 @@
 <li>And the most important: <strong>You should be proud of it</strong> - it will be THE project to show off during interview</li>
 </ul>
 
+
+<br>
 <h2>Solo or by team?</h2>
 
 <p>Good question right? </p>
