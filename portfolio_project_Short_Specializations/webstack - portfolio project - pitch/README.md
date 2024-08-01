@@ -100,8 +100,8 @@
 <li><a href="https://www.indeed.com/career-advice/career-development/software-project-plan" title="How To Create an Effective Software Project Plan" target="_blank">How To Create an Effective Software Project Plan</a></li>
 <li><a href="https://www.teamwork.com/blog/software-engineering-processes/" title="11 tips to plan, organize, and execute software engineering processes" target="_blank">11 tips to plan, organize, and execute software engineering processes</a></li>
 <li><a href="https://softwareengineering.stackexchange.com/questions/98101/how-to-organize-a-one-man-project" title="How to organize a one-man project?" target="_blank">How to organize a one-man project?</a></li>
-<li><a href="https://intranet.alxswe.com/rltoken/lmzex7kBBlhOoEWVPHhnfA" title="Software project planning" target="_blank">Software project planning</a></li>
-<li><a href="https://intranet.alxswe.com/rltoken/ZAAwiGMcXGRczl8vbOiiDw" title="Software Planning and Technical Documentation" target="_blank">Software Planning and Technical Documentation</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=X6CkWPjLkhg title="Software project planning" target="_blank">Software project planning</a></li>
+<li><a href="https://www.youtube.com/watch?feature=shared&v=2qlcY9LkFik" title="Software Planning and Technical Documentation" target="_blank">Software Planning and Technical Documentation</a></li>
 </ul>
 
 
@@ -115,4 +115,21 @@
 <ul>
 <li><strong>The team will record a pitch and share the link to the recording in the below task 0</strong></li>
 </ul>
+
+
+
+<br>
+
+## Tasks
+<details>
+<summary>
+
+### 0. Redis utils
+`mandatory`
+
+</summary>
+
+
+
+</details>
 
