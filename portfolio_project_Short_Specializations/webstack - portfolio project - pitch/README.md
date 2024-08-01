@@ -1,11 +1,14 @@
 <h1 align="center"><b>WEBSTACK - PORTFOLIO PROJECT - PITCH</b></h1>
 <div align="center"><code>Group project</code> <code>Portfolio project</code> <code>Presentation</code></div>
 
+
 <!-- <br>
 <hr>
 <h3><a href=>Notes</a></h3>
 <hr> -->
 
+
+<br>
 <h2 class="panel-title">Concepts</h2>
 <div class="panel-body">
     <p>
@@ -29,10 +32,13 @@
 </div>
 
 
+<br>
 <h2>Last run!</h2>
 
 <p>Yes! the portfolio project of the Webstack specialization will be your last-major-project!</p>
 
+
+<br>
 <h2>Make your choice</h2>
 
 <p>You will have almost 2 weeks to develop your portfolio project - during this period you will be alone or by team - to create a fully functional web application.</p>
