@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/cleanup%20your%20portfolio%20project/images/fa1eda41767146340b2f.gif">
+<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/cleanup%20your%20portfolio%20project/images/fa1eda41767146340b2f.gif">
 
 <!-- <br>
 
