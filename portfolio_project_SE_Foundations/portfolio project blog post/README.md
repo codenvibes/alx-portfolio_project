@@ -3,7 +3,7 @@
 
 <br>
 
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio%20project%20blog%20post/images/cc88d6531c448e2b71d4.gif"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/portfolio%20project%20blog%20post/images/cc88d6531c448e2b71d4.gif"></div>
 
 <br>
 
