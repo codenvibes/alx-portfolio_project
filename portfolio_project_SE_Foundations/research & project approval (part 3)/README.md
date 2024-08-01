@@ -147,7 +147,7 @@ In the “proposed” column, create cards to fully represent the engineering ta
 </summary>
 
 For each card, assign ownership to a team member. This should make sense given the roles specified in the project proposal.
-<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%203)/images/a123dd5c58ce29248625.png"></div>
+<div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%203)/images/a123dd5c58ce29248625.png"></div>
 
 </details>
 
