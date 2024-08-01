@@ -2,8 +2,6 @@
 
 <h2><a href="https://github.com/codenvibes/social_media_app.git">Portfolio Project SE Foundations</a></h2>
 
-<br>
-
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/research%20%26%20project%20approval%20(part%201)">Research & Project approval (Part 1)</a></b>
 
 <b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/research%20%26%20project%20approval%20(part%202)">Research & Project approval (Part 2)</a></b>
