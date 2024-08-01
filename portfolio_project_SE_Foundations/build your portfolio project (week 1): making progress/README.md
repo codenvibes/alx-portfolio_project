@@ -27,7 +27,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%201)%3A%20making%20progress/images/a9988dee7cde9c364f7b.giff">
+<br><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/build%20your%20portfolio%20project%20(week%201)%3A%20making%20progress/images/a9988dee7cde9c364f7b.gif">
 
 
 <!-- <br>
