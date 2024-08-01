@@ -124,7 +124,7 @@
 <details>
 <summary>
 
-### 0. Redis utils
+### 0. Pitch me your idea!
 `mandatory`
 
 </summary>
