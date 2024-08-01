@@ -24,9 +24,9 @@
 <!-- --------------------------------------------------------------------------------------------------- -->
 
 <br>
-<h2><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_Short_Specializations">Portfolio Project Short Specializations</a></h2>
+<h2><a href=" ">Portfolio Project Short Specializations</a></h2>
 
-<b><a href=" ">Webstack - Portfolio Project - Pitch</a></b>
+<b><a href="https://github.com/codenvibes/alx-portfolio_project/tree/master/portfolio_project_Short_Specializations/webstack%20-%20portfolio%20project%20-%20pitch">Webstack - Portfolio Project - Pitch</a></b>
 
 <b><a href=" ">Final 2024 Project: Reflect & Share</a></b>
 
