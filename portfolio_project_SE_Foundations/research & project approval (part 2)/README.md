@@ -35,7 +35,7 @@
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
 
-<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/7c257c6a8cd537400e72.png"></div>
+<br><div align="center"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%202)/images/7c257c6a8cd537400e72.png"></div>
 
 
 <!-- <br>
@@ -183,7 +183,7 @@ Tools: [SqlDBM](https://sqldbm.com/Home/)
 
 Example:
 
-<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/research%20%26%20project%20approval%20(part%202)/images/83eed8d2d8a6b390f16f.gif">
+<img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_SE_Foundations/research%20%26%20project%20approval%20(part%202)/images/83eed8d2d8a6b390f16f.gif">
 </details>
 
 <details>
