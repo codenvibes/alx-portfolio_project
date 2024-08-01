@@ -1,4 +1,6 @@
-<h1 align="center"><b><a href="https://github.com/codenvibes/social_media_app.git">ALX PORTFOLIO PROJECT</a></b></h1>
+<h1 align="center"><b><a href="">ALX PORTFOLIO PROJECT</a></b></h1>
+
+<h2><a href="https://github.com/codenvibes/social_media_app.git">Portfolio Project SE Foundations></a></h2>
 
 <br>
 
