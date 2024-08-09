@@ -157,7 +157,7 @@
 
 </summary>
 
-
+<p>The complexity, quality and curiosity that you put in your project is important - go beyond your limit and surprise us!</p>
 
 </details>
 
