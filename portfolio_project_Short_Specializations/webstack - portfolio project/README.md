@@ -46,13 +46,11 @@
 <h2>More info</h2>
 
 <p>When you are ready to be reviewed, schedule the portfolio project using the following link to be reviewed by a staff member.</p>
-
 <p>Here is a step by step guide on how to book the review:
+</p>
 
 <br>
 <a href="https://youtu.be/abgi2aPHdso"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_Short_Specializations/webstack%20-%20portfolio%20project/images/more_info.png"></a>
-</p>
-
 
 <br>
 
