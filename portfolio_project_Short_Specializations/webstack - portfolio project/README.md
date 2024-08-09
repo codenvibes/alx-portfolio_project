@@ -132,7 +132,7 @@
 <details>
 <summary>
 
-### 0. 
+### 3. Good use of Version Control 
 `mandatory`
 
 </summary>
