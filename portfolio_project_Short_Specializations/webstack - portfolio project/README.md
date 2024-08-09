@@ -137,7 +137,13 @@
 
 </summary>
 
+<p>You must demonstrate a good understanding of version control through effective use in your portfolio project. This include:</p>
 
+<ul>
+<li>Committing as often as possible</li>
+<li>using descriptive and professional commit messages</li>
+<li>collaboration through the use of branches and pull requests</li>
+</ul>
 
 </details>
 
