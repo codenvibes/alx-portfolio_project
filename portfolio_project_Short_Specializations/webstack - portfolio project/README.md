@@ -47,6 +47,6 @@
 
 <p>When you are ready to be reviewed, schedule the portfolio project using the following link to be reviewed by a staff member.</p>
 
-<p>Here is a step by step guide on how to book the review:</p>
+<p>Here is a step by step guide on how to book the review: https://youtu.be/abgi2aPHdso</p>
 
-<iframe width="560" height="315" src="./Project_ Webstack - Portfolio Project _ Nairobi Intranet_files/abgi2aPHdso.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<!-- <a href="https://youtu.be/abgi2aPHdso">https://youtu.be/abgi2aPHdso</a> -->
