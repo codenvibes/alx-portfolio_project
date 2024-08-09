@@ -102,6 +102,7 @@
 <a href="https://youtu.be/PWsDWYTOW2U"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_Short_Specializations/webstack%20-%20portfolio%20project/images/task_1.png"></a>
 
 <br>
+<br>
 
 <p>A few points to consider while preparing your video:</p>
 
