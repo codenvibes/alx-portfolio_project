@@ -102,6 +102,29 @@
 <a href="https://youtu.be/PWsDWYTOW2U"><img src="https://github.com/codenvibes/alx-portfolio_project/blob/master/portfolio_project_Short_Specializations/webstack%20-%20portfolio%20project/images/task_1.png"></a>
 <br>
 
+<p>A few points to consider while preparing your video:</p>
+
+<ul>
+<li><p><strong>Maximum Video Duration</strong>: The video should not exceed <strong>3 minutes</strong>, ensuring it is concise and engaging.</p></li>
+<li><p><strong>Background Music</strong>: If you include background music, ensure it’s <strong>copyright-free</strong> to avoid potential legal issues.</p></li>
+<li><p><strong>Voice-Overs</strong>: Feel free to use your voice to guide us through your project. Ensure your voice is clear, audible, and not overshadowed by the background music.</p></li>
+<li><p><strong>Recommended Tools</strong>:  We suggest using</p>
+
+<ul>
+<li><strong>Recording</strong>: Zoom(record + screenshare), Loom, Camtasia, etc</li>
+<li><strong>Editing tools</strong> such as:  Filmora Wondershare, Camtasia for your video creation.</li>
+<li><strong>How to share</strong>: YouTube (or, if blocked in your country, use a similar site), or a cloud storage service (G-drive, One-drive, etc). Submit the URL of your video. <strong>Make sure your video is accessible to the public</strong> - On YouTube, it’s fine to flag it as <strong>“unlisted,”</strong> but don’t flag it as <strong>“private”</strong></li>
+</ul></li>
+</ul>
+
+<p><strong>Please note that your project will not be considered complete without this video submission. It forms an integral part of your final project assessment.</strong></p>
+
+<p>So, let’s see your creativity in action.</p>
+
+<p>We are eagerly awaiting your presentations and demo videos.</p>
+
+<p>Happy building,</p>
+
 </details>
 
 <br>
