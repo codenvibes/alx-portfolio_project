@@ -3,7 +3,7 @@
 
 
 <br>
-<h3 class="panel-title">Concepts</h3>
+<h2 class="panel-title">Concepts</h2>
 <p>
 <em>For this project, we expect you to look at these concepts:</em>
 </p>
