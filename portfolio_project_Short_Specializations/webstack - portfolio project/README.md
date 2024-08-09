@@ -26,7 +26,7 @@
 
 
 <br>
-<h3>GO!</h3>
+<h2>GO!</h2>
 
 <p>Yes it’s time to white-board, to code, to troubleshoot bugs, to re-code, to solve other bugs, to refactor, etc..</p>
 
@@ -34,12 +34,15 @@
 
 <p>Starting today, you are building <strong>YOUR</strong> project - be proud of it!</p>
 
+<br>
 <h2>Evaluation - Show off!</h2>
 
 <p>After the pitch, now you will code - nice right? but don’t forget you will present it at the end (the Peer Learning Day following this project) in front of professionals and staff.</p>
 
 <p>Have fun!</p>
 
+
+<br>
 <h2>More info</h2>
 
 <p>When you are ready to be reviewed, schedule the portfolio project using the following link to be reviewed by a staff member.</p>
