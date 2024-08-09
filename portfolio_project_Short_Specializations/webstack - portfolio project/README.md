@@ -152,8 +152,8 @@
 <details>
 <summary>
 
-### 0. 
-`mandatory`
+### 2. Quality of presentation and project
+`#advanced`
 
 </summary>
 
